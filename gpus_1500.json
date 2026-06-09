@@ -1,0 +1,7502 @@
+[
+  {
+    "id": 1,
+    "name": "GPU Model 1",
+    "score": 4001
+  },
+  {
+    "id": 2,
+    "name": "GPU Model 2",
+    "score": 4002
+  },
+  {
+    "id": 3,
+    "name": "GPU Model 3",
+    "score": 4003
+  },
+  {
+    "id": 4,
+    "name": "GPU Model 4",
+    "score": 4004
+  },
+  {
+    "id": 5,
+    "name": "GPU Model 5",
+    "score": 4005
+  },
+  {
+    "id": 6,
+    "name": "GPU Model 6",
+    "score": 4006
+  },
+  {
+    "id": 7,
+    "name": "GPU Model 7",
+    "score": 4007
+  },
+  {
+    "id": 8,
+    "name": "GPU Model 8",
+    "score": 4008
+  },
+  {
+    "id": 9,
+    "name": "GPU Model 9",
+    "score": 4009
+  },
+  {
+    "id": 10,
+    "name": "GPU Model 10",
+    "score": 4010
+  },
+  {
+    "id": 11,
+    "name": "GPU Model 11",
+    "score": 4011
+  },
+  {
+    "id": 12,
+    "name": "GPU Model 12",
+    "score": 4012
+  },
+  {
+    "id": 13,
+    "name": "GPU Model 13",
+    "score": 4013
+  },
+  {
+    "id": 14,
+    "name": "GPU Model 14",
+    "score": 4014
+  },
+  {
+    "id": 15,
+    "name": "GPU Model 15",
+    "score": 4015
+  },
+  {
+    "id": 16,
+    "name": "GPU Model 16",
+    "score": 4016
+  },
+  {
+    "id": 17,
+    "name": "GPU Model 17",
+    "score": 4017
+  },
+  {
+    "id": 18,
+    "name": "GPU Model 18",
+    "score": 4018
+  },
+  {
+    "id": 19,
+    "name": "GPU Model 19",
+    "score": 4019
+  },
+  {
+    "id": 20,
+    "name": "GPU Model 20",
+    "score": 4020
+  },
+  {
+    "id": 21,
+    "name": "GPU Model 21",
+    "score": 4021
+  },
+  {
+    "id": 22,
+    "name": "GPU Model 22",
+    "score": 4022
+  },
+  {
+    "id": 23,
+    "name": "GPU Model 23",
+    "score": 4023
+  },
+  {
+    "id": 24,
+    "name": "GPU Model 24",
+    "score": 4024
+  },
+  {
+    "id": 25,
+    "name": "GPU Model 25",
+    "score": 4025
+  },
+  {
+    "id": 26,
+    "name": "GPU Model 26",
+    "score": 4026
+  },
+  {
+    "id": 27,
+    "name": "GPU Model 27",
+    "score": 4027
+  },
+  {
+    "id": 28,
+    "name": "GPU Model 28",
+    "score": 4028
+  },
+  {
+    "id": 29,
+    "name": "GPU Model 29",
+    "score": 4029
+  },
+  {
+    "id": 30,
+    "name": "GPU Model 30",
+    "score": 4030
+  },
+  {
+    "id": 31,
+    "name": "GPU Model 31",
+    "score": 4031
+  },
+  {
+    "id": 32,
+    "name": "GPU Model 32",
+    "score": 4032
+  },
+  {
+    "id": 33,
+    "name": "GPU Model 33",
+    "score": 4033
+  },
+  {
+    "id": 34,
+    "name": "GPU Model 34",
+    "score": 4034
+  },
+  {
+    "id": 35,
+    "name": "GPU Model 35",
+    "score": 4035
+  },
+  {
+    "id": 36,
+    "name": "GPU Model 36",
+    "score": 4036
+  },
+  {
+    "id": 37,
+    "name": "GPU Model 37",
+    "score": 4037
+  },
+  {
+    "id": 38,
+    "name": "GPU Model 38",
+    "score": 4038
+  },
+  {
+    "id": 39,
+    "name": "GPU Model 39",
+    "score": 4039
+  },
+  {
+    "id": 40,
+    "name": "GPU Model 40",
+    "score": 4040
+  },
+  {
+    "id": 41,
+    "name": "GPU Model 41",
+    "score": 4041
+  },
+  {
+    "id": 42,
+    "name": "GPU Model 42",
+    "score": 4042
+  },
+  {
+    "id": 43,
+    "name": "GPU Model 43",
+    "score": 4043
+  },
+  {
+    "id": 44,
+    "name": "GPU Model 44",
+    "score": 4044
+  },
+  {
+    "id": 45,
+    "name": "GPU Model 45",
+    "score": 4045
+  },
+  {
+    "id": 46,
+    "name": "GPU Model 46",
+    "score": 4046
+  },
+  {
+    "id": 47,
+    "name": "GPU Model 47",
+    "score": 4047
+  },
+  {
+    "id": 48,
+    "name": "GPU Model 48",
+    "score": 4048
+  },
+  {
+    "id": 49,
+    "name": "GPU Model 49",
+    "score": 4049
+  },
+  {
+    "id": 50,
+    "name": "GPU Model 50",
+    "score": 4050
+  },
+  {
+    "id": 51,
+    "name": "GPU Model 51",
+    "score": 4051
+  },
+  {
+    "id": 52,
+    "name": "GPU Model 52",
+    "score": 4052
+  },
+  {
+    "id": 53,
+    "name": "GPU Model 53",
+    "score": 4053
+  },
+  {
+    "id": 54,
+    "name": "GPU Model 54",
+    "score": 4054
+  },
+  {
+    "id": 55,
+    "name": "GPU Model 55",
+    "score": 4055
+  },
+  {
+    "id": 56,
+    "name": "GPU Model 56",
+    "score": 4056
+  },
+  {
+    "id": 57,
+    "name": "GPU Model 57",
+    "score": 4057
+  },
+  {
+    "id": 58,
+    "name": "GPU Model 58",
+    "score": 4058
+  },
+  {
+    "id": 59,
+    "name": "GPU Model 59",
+    "score": 4059
+  },
+  {
+    "id": 60,
+    "name": "GPU Model 60",
+    "score": 4060
+  },
+  {
+    "id": 61,
+    "name": "GPU Model 61",
+    "score": 4061
+  },
+  {
+    "id": 62,
+    "name": "GPU Model 62",
+    "score": 4062
+  },
+  {
+    "id": 63,
+    "name": "GPU Model 63",
+    "score": 4063
+  },
+  {
+    "id": 64,
+    "name": "GPU Model 64",
+    "score": 4064
+  },
+  {
+    "id": 65,
+    "name": "GPU Model 65",
+    "score": 4065
+  },
+  {
+    "id": 66,
+    "name": "GPU Model 66",
+    "score": 4066
+  },
+  {
+    "id": 67,
+    "name": "GPU Model 67",
+    "score": 4067
+  },
+  {
+    "id": 68,
+    "name": "GPU Model 68",
+    "score": 4068
+  },
+  {
+    "id": 69,
+    "name": "GPU Model 69",
+    "score": 4069
+  },
+  {
+    "id": 70,
+    "name": "GPU Model 70",
+    "score": 4070
+  },
+  {
+    "id": 71,
+    "name": "GPU Model 71",
+    "score": 4071
+  },
+  {
+    "id": 72,
+    "name": "GPU Model 72",
+    "score": 4072
+  },
+  {
+    "id": 73,
+    "name": "GPU Model 73",
+    "score": 4073
+  },
+  {
+    "id": 74,
+    "name": "GPU Model 74",
+    "score": 4074
+  },
+  {
+    "id": 75,
+    "name": "GPU Model 75",
+    "score": 4075
+  },
+  {
+    "id": 76,
+    "name": "GPU Model 76",
+    "score": 4076
+  },
+  {
+    "id": 77,
+    "name": "GPU Model 77",
+    "score": 4077
+  },
+  {
+    "id": 78,
+    "name": "GPU Model 78",
+    "score": 4078
+  },
+  {
+    "id": 79,
+    "name": "GPU Model 79",
+    "score": 4079
+  },
+  {
+    "id": 80,
+    "name": "GPU Model 80",
+    "score": 4080
+  },
+  {
+    "id": 81,
+    "name": "GPU Model 81",
+    "score": 4081
+  },
+  {
+    "id": 82,
+    "name": "GPU Model 82",
+    "score": 4082
+  },
+  {
+    "id": 83,
+    "name": "GPU Model 83",
+    "score": 4083
+  },
+  {
+    "id": 84,
+    "name": "GPU Model 84",
+    "score": 4084
+  },
+  {
+    "id": 85,
+    "name": "GPU Model 85",
+    "score": 4085
+  },
+  {
+    "id": 86,
+    "name": "GPU Model 86",
+    "score": 4086
+  },
+  {
+    "id": 87,
+    "name": "GPU Model 87",
+    "score": 4087
+  },
+  {
+    "id": 88,
+    "name": "GPU Model 88",
+    "score": 4088
+  },
+  {
+    "id": 89,
+    "name": "GPU Model 89",
+    "score": 4089
+  },
+  {
+    "id": 90,
+    "name": "GPU Model 90",
+    "score": 4090
+  },
+  {
+    "id": 91,
+    "name": "GPU Model 91",
+    "score": 4091
+  },
+  {
+    "id": 92,
+    "name": "GPU Model 92",
+    "score": 4092
+  },
+  {
+    "id": 93,
+    "name": "GPU Model 93",
+    "score": 4093
+  },
+  {
+    "id": 94,
+    "name": "GPU Model 94",
+    "score": 4094
+  },
+  {
+    "id": 95,
+    "name": "GPU Model 95",
+    "score": 4095
+  },
+  {
+    "id": 96,
+    "name": "GPU Model 96",
+    "score": 4096
+  },
+  {
+    "id": 97,
+    "name": "GPU Model 97",
+    "score": 4097
+  },
+  {
+    "id": 98,
+    "name": "GPU Model 98",
+    "score": 4098
+  },
+  {
+    "id": 99,
+    "name": "GPU Model 99",
+    "score": 4099
+  },
+  {
+    "id": 100,
+    "name": "GPU Model 100",
+    "score": 4100
+  },
+  {
+    "id": 101,
+    "name": "GPU Model 101",
+    "score": 4101
+  },
+  {
+    "id": 102,
+    "name": "GPU Model 102",
+    "score": 4102
+  },
+  {
+    "id": 103,
+    "name": "GPU Model 103",
+    "score": 4103
+  },
+  {
+    "id": 104,
+    "name": "GPU Model 104",
+    "score": 4104
+  },
+  {
+    "id": 105,
+    "name": "GPU Model 105",
+    "score": 4105
+  },
+  {
+    "id": 106,
+    "name": "GPU Model 106",
+    "score": 4106
+  },
+  {
+    "id": 107,
+    "name": "GPU Model 107",
+    "score": 4107
+  },
+  {
+    "id": 108,
+    "name": "GPU Model 108",
+    "score": 4108
+  },
+  {
+    "id": 109,
+    "name": "GPU Model 109",
+    "score": 4109
+  },
+  {
+    "id": 110,
+    "name": "GPU Model 110",
+    "score": 4110
+  },
+  {
+    "id": 111,
+    "name": "GPU Model 111",
+    "score": 4111
+  },
+  {
+    "id": 112,
+    "name": "GPU Model 112",
+    "score": 4112
+  },
+  {
+    "id": 113,
+    "name": "GPU Model 113",
+    "score": 4113
+  },
+  {
+    "id": 114,
+    "name": "GPU Model 114",
+    "score": 4114
+  },
+  {
+    "id": 115,
+    "name": "GPU Model 115",
+    "score": 4115
+  },
+  {
+    "id": 116,
+    "name": "GPU Model 116",
+    "score": 4116
+  },
+  {
+    "id": 117,
+    "name": "GPU Model 117",
+    "score": 4117
+  },
+  {
+    "id": 118,
+    "name": "GPU Model 118",
+    "score": 4118
+  },
+  {
+    "id": 119,
+    "name": "GPU Model 119",
+    "score": 4119
+  },
+  {
+    "id": 120,
+    "name": "GPU Model 120",
+    "score": 4120
+  },
+  {
+    "id": 121,
+    "name": "GPU Model 121",
+    "score": 4121
+  },
+  {
+    "id": 122,
+    "name": "GPU Model 122",
+    "score": 4122
+  },
+  {
+    "id": 123,
+    "name": "GPU Model 123",
+    "score": 4123
+  },
+  {
+    "id": 124,
+    "name": "GPU Model 124",
+    "score": 4124
+  },
+  {
+    "id": 125,
+    "name": "GPU Model 125",
+    "score": 4125
+  },
+  {
+    "id": 126,
+    "name": "GPU Model 126",
+    "score": 4126
+  },
+  {
+    "id": 127,
+    "name": "GPU Model 127",
+    "score": 4127
+  },
+  {
+    "id": 128,
+    "name": "GPU Model 128",
+    "score": 4128
+  },
+  {
+    "id": 129,
+    "name": "GPU Model 129",
+    "score": 4129
+  },
+  {
+    "id": 130,
+    "name": "GPU Model 130",
+    "score": 4130
+  },
+  {
+    "id": 131,
+    "name": "GPU Model 131",
+    "score": 4131
+  },
+  {
+    "id": 132,
+    "name": "GPU Model 132",
+    "score": 4132
+  },
+  {
+    "id": 133,
+    "name": "GPU Model 133",
+    "score": 4133
+  },
+  {
+    "id": 134,
+    "name": "GPU Model 134",
+    "score": 4134
+  },
+  {
+    "id": 135,
+    "name": "GPU Model 135",
+    "score": 4135
+  },
+  {
+    "id": 136,
+    "name": "GPU Model 136",
+    "score": 4136
+  },
+  {
+    "id": 137,
+    "name": "GPU Model 137",
+    "score": 4137
+  },
+  {
+    "id": 138,
+    "name": "GPU Model 138",
+    "score": 4138
+  },
+  {
+    "id": 139,
+    "name": "GPU Model 139",
+    "score": 4139
+  },
+  {
+    "id": 140,
+    "name": "GPU Model 140",
+    "score": 4140
+  },
+  {
+    "id": 141,
+    "name": "GPU Model 141",
+    "score": 4141
+  },
+  {
+    "id": 142,
+    "name": "GPU Model 142",
+    "score": 4142
+  },
+  {
+    "id": 143,
+    "name": "GPU Model 143",
+    "score": 4143
+  },
+  {
+    "id": 144,
+    "name": "GPU Model 144",
+    "score": 4144
+  },
+  {
+    "id": 145,
+    "name": "GPU Model 145",
+    "score": 4145
+  },
+  {
+    "id": 146,
+    "name": "GPU Model 146",
+    "score": 4146
+  },
+  {
+    "id": 147,
+    "name": "GPU Model 147",
+    "score": 4147
+  },
+  {
+    "id": 148,
+    "name": "GPU Model 148",
+    "score": 4148
+  },
+  {
+    "id": 149,
+    "name": "GPU Model 149",
+    "score": 4149
+  },
+  {
+    "id": 150,
+    "name": "GPU Model 150",
+    "score": 4150
+  },
+  {
+    "id": 151,
+    "name": "GPU Model 151",
+    "score": 4151
+  },
+  {
+    "id": 152,
+    "name": "GPU Model 152",
+    "score": 4152
+  },
+  {
+    "id": 153,
+    "name": "GPU Model 153",
+    "score": 4153
+  },
+  {
+    "id": 154,
+    "name": "GPU Model 154",
+    "score": 4154
+  },
+  {
+    "id": 155,
+    "name": "GPU Model 155",
+    "score": 4155
+  },
+  {
+    "id": 156,
+    "name": "GPU Model 156",
+    "score": 4156
+  },
+  {
+    "id": 157,
+    "name": "GPU Model 157",
+    "score": 4157
+  },
+  {
+    "id": 158,
+    "name": "GPU Model 158",
+    "score": 4158
+  },
+  {
+    "id": 159,
+    "name": "GPU Model 159",
+    "score": 4159
+  },
+  {
+    "id": 160,
+    "name": "GPU Model 160",
+    "score": 4160
+  },
+  {
+    "id": 161,
+    "name": "GPU Model 161",
+    "score": 4161
+  },
+  {
+    "id": 162,
+    "name": "GPU Model 162",
+    "score": 4162
+  },
+  {
+    "id": 163,
+    "name": "GPU Model 163",
+    "score": 4163
+  },
+  {
+    "id": 164,
+    "name": "GPU Model 164",
+    "score": 4164
+  },
+  {
+    "id": 165,
+    "name": "GPU Model 165",
+    "score": 4165
+  },
+  {
+    "id": 166,
+    "name": "GPU Model 166",
+    "score": 4166
+  },
+  {
+    "id": 167,
+    "name": "GPU Model 167",
+    "score": 4167
+  },
+  {
+    "id": 168,
+    "name": "GPU Model 168",
+    "score": 4168
+  },
+  {
+    "id": 169,
+    "name": "GPU Model 169",
+    "score": 4169
+  },
+  {
+    "id": 170,
+    "name": "GPU Model 170",
+    "score": 4170
+  },
+  {
+    "id": 171,
+    "name": "GPU Model 171",
+    "score": 4171
+  },
+  {
+    "id": 172,
+    "name": "GPU Model 172",
+    "score": 4172
+  },
+  {
+    "id": 173,
+    "name": "GPU Model 173",
+    "score": 4173
+  },
+  {
+    "id": 174,
+    "name": "GPU Model 174",
+    "score": 4174
+  },
+  {
+    "id": 175,
+    "name": "GPU Model 175",
+    "score": 4175
+  },
+  {
+    "id": 176,
+    "name": "GPU Model 176",
+    "score": 4176
+  },
+  {
+    "id": 177,
+    "name": "GPU Model 177",
+    "score": 4177
+  },
+  {
+    "id": 178,
+    "name": "GPU Model 178",
+    "score": 4178
+  },
+  {
+    "id": 179,
+    "name": "GPU Model 179",
+    "score": 4179
+  },
+  {
+    "id": 180,
+    "name": "GPU Model 180",
+    "score": 4180
+  },
+  {
+    "id": 181,
+    "name": "GPU Model 181",
+    "score": 4181
+  },
+  {
+    "id": 182,
+    "name": "GPU Model 182",
+    "score": 4182
+  },
+  {
+    "id": 183,
+    "name": "GPU Model 183",
+    "score": 4183
+  },
+  {
+    "id": 184,
+    "name": "GPU Model 184",
+    "score": 4184
+  },
+  {
+    "id": 185,
+    "name": "GPU Model 185",
+    "score": 4185
+  },
+  {
+    "id": 186,
+    "name": "GPU Model 186",
+    "score": 4186
+  },
+  {
+    "id": 187,
+    "name": "GPU Model 187",
+    "score": 4187
+  },
+  {
+    "id": 188,
+    "name": "GPU Model 188",
+    "score": 4188
+  },
+  {
+    "id": 189,
+    "name": "GPU Model 189",
+    "score": 4189
+  },
+  {
+    "id": 190,
+    "name": "GPU Model 190",
+    "score": 4190
+  },
+  {
+    "id": 191,
+    "name": "GPU Model 191",
+    "score": 4191
+  },
+  {
+    "id": 192,
+    "name": "GPU Model 192",
+    "score": 4192
+  },
+  {
+    "id": 193,
+    "name": "GPU Model 193",
+    "score": 4193
+  },
+  {
+    "id": 194,
+    "name": "GPU Model 194",
+    "score": 4194
+  },
+  {
+    "id": 195,
+    "name": "GPU Model 195",
+    "score": 4195
+  },
+  {
+    "id": 196,
+    "name": "GPU Model 196",
+    "score": 4196
+  },
+  {
+    "id": 197,
+    "name": "GPU Model 197",
+    "score": 4197
+  },
+  {
+    "id": 198,
+    "name": "GPU Model 198",
+    "score": 4198
+  },
+  {
+    "id": 199,
+    "name": "GPU Model 199",
+    "score": 4199
+  },
+  {
+    "id": 200,
+    "name": "GPU Model 200",
+    "score": 4200
+  },
+  {
+    "id": 201,
+    "name": "GPU Model 201",
+    "score": 4201
+  },
+  {
+    "id": 202,
+    "name": "GPU Model 202",
+    "score": 4202
+  },
+  {
+    "id": 203,
+    "name": "GPU Model 203",
+    "score": 4203
+  },
+  {
+    "id": 204,
+    "name": "GPU Model 204",
+    "score": 4204
+  },
+  {
+    "id": 205,
+    "name": "GPU Model 205",
+    "score": 4205
+  },
+  {
+    "id": 206,
+    "name": "GPU Model 206",
+    "score": 4206
+  },
+  {
+    "id": 207,
+    "name": "GPU Model 207",
+    "score": 4207
+  },
+  {
+    "id": 208,
+    "name": "GPU Model 208",
+    "score": 4208
+  },
+  {
+    "id": 209,
+    "name": "GPU Model 209",
+    "score": 4209
+  },
+  {
+    "id": 210,
+    "name": "GPU Model 210",
+    "score": 4210
+  },
+  {
+    "id": 211,
+    "name": "GPU Model 211",
+    "score": 4211
+  },
+  {
+    "id": 212,
+    "name": "GPU Model 212",
+    "score": 4212
+  },
+  {
+    "id": 213,
+    "name": "GPU Model 213",
+    "score": 4213
+  },
+  {
+    "id": 214,
+    "name": "GPU Model 214",
+    "score": 4214
+  },
+  {
+    "id": 215,
+    "name": "GPU Model 215",
+    "score": 4215
+  },
+  {
+    "id": 216,
+    "name": "GPU Model 216",
+    "score": 4216
+  },
+  {
+    "id": 217,
+    "name": "GPU Model 217",
+    "score": 4217
+  },
+  {
+    "id": 218,
+    "name": "GPU Model 218",
+    "score": 4218
+  },
+  {
+    "id": 219,
+    "name": "GPU Model 219",
+    "score": 4219
+  },
+  {
+    "id": 220,
+    "name": "GPU Model 220",
+    "score": 4220
+  },
+  {
+    "id": 221,
+    "name": "GPU Model 221",
+    "score": 4221
+  },
+  {
+    "id": 222,
+    "name": "GPU Model 222",
+    "score": 4222
+  },
+  {
+    "id": 223,
+    "name": "GPU Model 223",
+    "score": 4223
+  },
+  {
+    "id": 224,
+    "name": "GPU Model 224",
+    "score": 4224
+  },
+  {
+    "id": 225,
+    "name": "GPU Model 225",
+    "score": 4225
+  },
+  {
+    "id": 226,
+    "name": "GPU Model 226",
+    "score": 4226
+  },
+  {
+    "id": 227,
+    "name": "GPU Model 227",
+    "score": 4227
+  },
+  {
+    "id": 228,
+    "name": "GPU Model 228",
+    "score": 4228
+  },
+  {
+    "id": 229,
+    "name": "GPU Model 229",
+    "score": 4229
+  },
+  {
+    "id": 230,
+    "name": "GPU Model 230",
+    "score": 4230
+  },
+  {
+    "id": 231,
+    "name": "GPU Model 231",
+    "score": 4231
+  },
+  {
+    "id": 232,
+    "name": "GPU Model 232",
+    "score": 4232
+  },
+  {
+    "id": 233,
+    "name": "GPU Model 233",
+    "score": 4233
+  },
+  {
+    "id": 234,
+    "name": "GPU Model 234",
+    "score": 4234
+  },
+  {
+    "id": 235,
+    "name": "GPU Model 235",
+    "score": 4235
+  },
+  {
+    "id": 236,
+    "name": "GPU Model 236",
+    "score": 4236
+  },
+  {
+    "id": 237,
+    "name": "GPU Model 237",
+    "score": 4237
+  },
+  {
+    "id": 238,
+    "name": "GPU Model 238",
+    "score": 4238
+  },
+  {
+    "id": 239,
+    "name": "GPU Model 239",
+    "score": 4239
+  },
+  {
+    "id": 240,
+    "name": "GPU Model 240",
+    "score": 4240
+  },
+  {
+    "id": 241,
+    "name": "GPU Model 241",
+    "score": 4241
+  },
+  {
+    "id": 242,
+    "name": "GPU Model 242",
+    "score": 4242
+  },
+  {
+    "id": 243,
+    "name": "GPU Model 243",
+    "score": 4243
+  },
+  {
+    "id": 244,
+    "name": "GPU Model 244",
+    "score": 4244
+  },
+  {
+    "id": 245,
+    "name": "GPU Model 245",
+    "score": 4245
+  },
+  {
+    "id": 246,
+    "name": "GPU Model 246",
+    "score": 4246
+  },
+  {
+    "id": 247,
+    "name": "GPU Model 247",
+    "score": 4247
+  },
+  {
+    "id": 248,
+    "name": "GPU Model 248",
+    "score": 4248
+  },
+  {
+    "id": 249,
+    "name": "GPU Model 249",
+    "score": 4249
+  },
+  {
+    "id": 250,
+    "name": "GPU Model 250",
+    "score": 4250
+  },
+  {
+    "id": 251,
+    "name": "GPU Model 251",
+    "score": 4251
+  },
+  {
+    "id": 252,
+    "name": "GPU Model 252",
+    "score": 4252
+  },
+  {
+    "id": 253,
+    "name": "GPU Model 253",
+    "score": 4253
+  },
+  {
+    "id": 254,
+    "name": "GPU Model 254",
+    "score": 4254
+  },
+  {
+    "id": 255,
+    "name": "GPU Model 255",
+    "score": 4255
+  },
+  {
+    "id": 256,
+    "name": "GPU Model 256",
+    "score": 4256
+  },
+  {
+    "id": 257,
+    "name": "GPU Model 257",
+    "score": 4257
+  },
+  {
+    "id": 258,
+    "name": "GPU Model 258",
+    "score": 4258
+  },
+  {
+    "id": 259,
+    "name": "GPU Model 259",
+    "score": 4259
+  },
+  {
+    "id": 260,
+    "name": "GPU Model 260",
+    "score": 4260
+  },
+  {
+    "id": 261,
+    "name": "GPU Model 261",
+    "score": 4261
+  },
+  {
+    "id": 262,
+    "name": "GPU Model 262",
+    "score": 4262
+  },
+  {
+    "id": 263,
+    "name": "GPU Model 263",
+    "score": 4263
+  },
+  {
+    "id": 264,
+    "name": "GPU Model 264",
+    "score": 4264
+  },
+  {
+    "id": 265,
+    "name": "GPU Model 265",
+    "score": 4265
+  },
+  {
+    "id": 266,
+    "name": "GPU Model 266",
+    "score": 4266
+  },
+  {
+    "id": 267,
+    "name": "GPU Model 267",
+    "score": 4267
+  },
+  {
+    "id": 268,
+    "name": "GPU Model 268",
+    "score": 4268
+  },
+  {
+    "id": 269,
+    "name": "GPU Model 269",
+    "score": 4269
+  },
+  {
+    "id": 270,
+    "name": "GPU Model 270",
+    "score": 4270
+  },
+  {
+    "id": 271,
+    "name": "GPU Model 271",
+    "score": 4271
+  },
+  {
+    "id": 272,
+    "name": "GPU Model 272",
+    "score": 4272
+  },
+  {
+    "id": 273,
+    "name": "GPU Model 273",
+    "score": 4273
+  },
+  {
+    "id": 274,
+    "name": "GPU Model 274",
+    "score": 4274
+  },
+  {
+    "id": 275,
+    "name": "GPU Model 275",
+    "score": 4275
+  },
+  {
+    "id": 276,
+    "name": "GPU Model 276",
+    "score": 4276
+  },
+  {
+    "id": 277,
+    "name": "GPU Model 277",
+    "score": 4277
+  },
+  {
+    "id": 278,
+    "name": "GPU Model 278",
+    "score": 4278
+  },
+  {
+    "id": 279,
+    "name": "GPU Model 279",
+    "score": 4279
+  },
+  {
+    "id": 280,
+    "name": "GPU Model 280",
+    "score": 4280
+  },
+  {
+    "id": 281,
+    "name": "GPU Model 281",
+    "score": 4281
+  },
+  {
+    "id": 282,
+    "name": "GPU Model 282",
+    "score": 4282
+  },
+  {
+    "id": 283,
+    "name": "GPU Model 283",
+    "score": 4283
+  },
+  {
+    "id": 284,
+    "name": "GPU Model 284",
+    "score": 4284
+  },
+  {
+    "id": 285,
+    "name": "GPU Model 285",
+    "score": 4285
+  },
+  {
+    "id": 286,
+    "name": "GPU Model 286",
+    "score": 4286
+  },
+  {
+    "id": 287,
+    "name": "GPU Model 287",
+    "score": 4287
+  },
+  {
+    "id": 288,
+    "name": "GPU Model 288",
+    "score": 4288
+  },
+  {
+    "id": 289,
+    "name": "GPU Model 289",
+    "score": 4289
+  },
+  {
+    "id": 290,
+    "name": "GPU Model 290",
+    "score": 4290
+  },
+  {
+    "id": 291,
+    "name": "GPU Model 291",
+    "score": 4291
+  },
+  {
+    "id": 292,
+    "name": "GPU Model 292",
+    "score": 4292
+  },
+  {
+    "id": 293,
+    "name": "GPU Model 293",
+    "score": 4293
+  },
+  {
+    "id": 294,
+    "name": "GPU Model 294",
+    "score": 4294
+  },
+  {
+    "id": 295,
+    "name": "GPU Model 295",
+    "score": 4295
+  },
+  {
+    "id": 296,
+    "name": "GPU Model 296",
+    "score": 4296
+  },
+  {
+    "id": 297,
+    "name": "GPU Model 297",
+    "score": 4297
+  },
+  {
+    "id": 298,
+    "name": "GPU Model 298",
+    "score": 4298
+  },
+  {
+    "id": 299,
+    "name": "GPU Model 299",
+    "score": 4299
+  },
+  {
+    "id": 300,
+    "name": "GPU Model 300",
+    "score": 4300
+  },
+  {
+    "id": 301,
+    "name": "GPU Model 301",
+    "score": 4301
+  },
+  {
+    "id": 302,
+    "name": "GPU Model 302",
+    "score": 4302
+  },
+  {
+    "id": 303,
+    "name": "GPU Model 303",
+    "score": 4303
+  },
+  {
+    "id": 304,
+    "name": "GPU Model 304",
+    "score": 4304
+  },
+  {
+    "id": 305,
+    "name": "GPU Model 305",
+    "score": 4305
+  },
+  {
+    "id": 306,
+    "name": "GPU Model 306",
+    "score": 4306
+  },
+  {
+    "id": 307,
+    "name": "GPU Model 307",
+    "score": 4307
+  },
+  {
+    "id": 308,
+    "name": "GPU Model 308",
+    "score": 4308
+  },
+  {
+    "id": 309,
+    "name": "GPU Model 309",
+    "score": 4309
+  },
+  {
+    "id": 310,
+    "name": "GPU Model 310",
+    "score": 4310
+  },
+  {
+    "id": 311,
+    "name": "GPU Model 311",
+    "score": 4311
+  },
+  {
+    "id": 312,
+    "name": "GPU Model 312",
+    "score": 4312
+  },
+  {
+    "id": 313,
+    "name": "GPU Model 313",
+    "score": 4313
+  },
+  {
+    "id": 314,
+    "name": "GPU Model 314",
+    "score": 4314
+  },
+  {
+    "id": 315,
+    "name": "GPU Model 315",
+    "score": 4315
+  },
+  {
+    "id": 316,
+    "name": "GPU Model 316",
+    "score": 4316
+  },
+  {
+    "id": 317,
+    "name": "GPU Model 317",
+    "score": 4317
+  },
+  {
+    "id": 318,
+    "name": "GPU Model 318",
+    "score": 4318
+  },
+  {
+    "id": 319,
+    "name": "GPU Model 319",
+    "score": 4319
+  },
+  {
+    "id": 320,
+    "name": "GPU Model 320",
+    "score": 4320
+  },
+  {
+    "id": 321,
+    "name": "GPU Model 321",
+    "score": 4321
+  },
+  {
+    "id": 322,
+    "name": "GPU Model 322",
+    "score": 4322
+  },
+  {
+    "id": 323,
+    "name": "GPU Model 323",
+    "score": 4323
+  },
+  {
+    "id": 324,
+    "name": "GPU Model 324",
+    "score": 4324
+  },
+  {
+    "id": 325,
+    "name": "GPU Model 325",
+    "score": 4325
+  },
+  {
+    "id": 326,
+    "name": "GPU Model 326",
+    "score": 4326
+  },
+  {
+    "id": 327,
+    "name": "GPU Model 327",
+    "score": 4327
+  },
+  {
+    "id": 328,
+    "name": "GPU Model 328",
+    "score": 4328
+  },
+  {
+    "id": 329,
+    "name": "GPU Model 329",
+    "score": 4329
+  },
+  {
+    "id": 330,
+    "name": "GPU Model 330",
+    "score": 4330
+  },
+  {
+    "id": 331,
+    "name": "GPU Model 331",
+    "score": 4331
+  },
+  {
+    "id": 332,
+    "name": "GPU Model 332",
+    "score": 4332
+  },
+  {
+    "id": 333,
+    "name": "GPU Model 333",
+    "score": 4333
+  },
+  {
+    "id": 334,
+    "name": "GPU Model 334",
+    "score": 4334
+  },
+  {
+    "id": 335,
+    "name": "GPU Model 335",
+    "score": 4335
+  },
+  {
+    "id": 336,
+    "name": "GPU Model 336",
+    "score": 4336
+  },
+  {
+    "id": 337,
+    "name": "GPU Model 337",
+    "score": 4337
+  },
+  {
+    "id": 338,
+    "name": "GPU Model 338",
+    "score": 4338
+  },
+  {
+    "id": 339,
+    "name": "GPU Model 339",
+    "score": 4339
+  },
+  {
+    "id": 340,
+    "name": "GPU Model 340",
+    "score": 4340
+  },
+  {
+    "id": 341,
+    "name": "GPU Model 341",
+    "score": 4341
+  },
+  {
+    "id": 342,
+    "name": "GPU Model 342",
+    "score": 4342
+  },
+  {
+    "id": 343,
+    "name": "GPU Model 343",
+    "score": 4343
+  },
+  {
+    "id": 344,
+    "name": "GPU Model 344",
+    "score": 4344
+  },
+  {
+    "id": 345,
+    "name": "GPU Model 345",
+    "score": 4345
+  },
+  {
+    "id": 346,
+    "name": "GPU Model 346",
+    "score": 4346
+  },
+  {
+    "id": 347,
+    "name": "GPU Model 347",
+    "score": 4347
+  },
+  {
+    "id": 348,
+    "name": "GPU Model 348",
+    "score": 4348
+  },
+  {
+    "id": 349,
+    "name": "GPU Model 349",
+    "score": 4349
+  },
+  {
+    "id": 350,
+    "name": "GPU Model 350",
+    "score": 4350
+  },
+  {
+    "id": 351,
+    "name": "GPU Model 351",
+    "score": 4351
+  },
+  {
+    "id": 352,
+    "name": "GPU Model 352",
+    "score": 4352
+  },
+  {
+    "id": 353,
+    "name": "GPU Model 353",
+    "score": 4353
+  },
+  {
+    "id": 354,
+    "name": "GPU Model 354",
+    "score": 4354
+  },
+  {
+    "id": 355,
+    "name": "GPU Model 355",
+    "score": 4355
+  },
+  {
+    "id": 356,
+    "name": "GPU Model 356",
+    "score": 4356
+  },
+  {
+    "id": 357,
+    "name": "GPU Model 357",
+    "score": 4357
+  },
+  {
+    "id": 358,
+    "name": "GPU Model 358",
+    "score": 4358
+  },
+  {
+    "id": 359,
+    "name": "GPU Model 359",
+    "score": 4359
+  },
+  {
+    "id": 360,
+    "name": "GPU Model 360",
+    "score": 4360
+  },
+  {
+    "id": 361,
+    "name": "GPU Model 361",
+    "score": 4361
+  },
+  {
+    "id": 362,
+    "name": "GPU Model 362",
+    "score": 4362
+  },
+  {
+    "id": 363,
+    "name": "GPU Model 363",
+    "score": 4363
+  },
+  {
+    "id": 364,
+    "name": "GPU Model 364",
+    "score": 4364
+  },
+  {
+    "id": 365,
+    "name": "GPU Model 365",
+    "score": 4365
+  },
+  {
+    "id": 366,
+    "name": "GPU Model 366",
+    "score": 4366
+  },
+  {
+    "id": 367,
+    "name": "GPU Model 367",
+    "score": 4367
+  },
+  {
+    "id": 368,
+    "name": "GPU Model 368",
+    "score": 4368
+  },
+  {
+    "id": 369,
+    "name": "GPU Model 369",
+    "score": 4369
+  },
+  {
+    "id": 370,
+    "name": "GPU Model 370",
+    "score": 4370
+  },
+  {
+    "id": 371,
+    "name": "GPU Model 371",
+    "score": 4371
+  },
+  {
+    "id": 372,
+    "name": "GPU Model 372",
+    "score": 4372
+  },
+  {
+    "id": 373,
+    "name": "GPU Model 373",
+    "score": 4373
+  },
+  {
+    "id": 374,
+    "name": "GPU Model 374",
+    "score": 4374
+  },
+  {
+    "id": 375,
+    "name": "GPU Model 375",
+    "score": 4375
+  },
+  {
+    "id": 376,
+    "name": "GPU Model 376",
+    "score": 4376
+  },
+  {
+    "id": 377,
+    "name": "GPU Model 377",
+    "score": 4377
+  },
+  {
+    "id": 378,
+    "name": "GPU Model 378",
+    "score": 4378
+  },
+  {
+    "id": 379,
+    "name": "GPU Model 379",
+    "score": 4379
+  },
+  {
+    "id": 380,
+    "name": "GPU Model 380",
+    "score": 4380
+  },
+  {
+    "id": 381,
+    "name": "GPU Model 381",
+    "score": 4381
+  },
+  {
+    "id": 382,
+    "name": "GPU Model 382",
+    "score": 4382
+  },
+  {
+    "id": 383,
+    "name": "GPU Model 383",
+    "score": 4383
+  },
+  {
+    "id": 384,
+    "name": "GPU Model 384",
+    "score": 4384
+  },
+  {
+    "id": 385,
+    "name": "GPU Model 385",
+    "score": 4385
+  },
+  {
+    "id": 386,
+    "name": "GPU Model 386",
+    "score": 4386
+  },
+  {
+    "id": 387,
+    "name": "GPU Model 387",
+    "score": 4387
+  },
+  {
+    "id": 388,
+    "name": "GPU Model 388",
+    "score": 4388
+  },
+  {
+    "id": 389,
+    "name": "GPU Model 389",
+    "score": 4389
+  },
+  {
+    "id": 390,
+    "name": "GPU Model 390",
+    "score": 4390
+  },
+  {
+    "id": 391,
+    "name": "GPU Model 391",
+    "score": 4391
+  },
+  {
+    "id": 392,
+    "name": "GPU Model 392",
+    "score": 4392
+  },
+  {
+    "id": 393,
+    "name": "GPU Model 393",
+    "score": 4393
+  },
+  {
+    "id": 394,
+    "name": "GPU Model 394",
+    "score": 4394
+  },
+  {
+    "id": 395,
+    "name": "GPU Model 395",
+    "score": 4395
+  },
+  {
+    "id": 396,
+    "name": "GPU Model 396",
+    "score": 4396
+  },
+  {
+    "id": 397,
+    "name": "GPU Model 397",
+    "score": 4397
+  },
+  {
+    "id": 398,
+    "name": "GPU Model 398",
+    "score": 4398
+  },
+  {
+    "id": 399,
+    "name": "GPU Model 399",
+    "score": 4399
+  },
+  {
+    "id": 400,
+    "name": "GPU Model 400",
+    "score": 4400
+  },
+  {
+    "id": 401,
+    "name": "GPU Model 401",
+    "score": 4401
+  },
+  {
+    "id": 402,
+    "name": "GPU Model 402",
+    "score": 4402
+  },
+  {
+    "id": 403,
+    "name": "GPU Model 403",
+    "score": 4403
+  },
+  {
+    "id": 404,
+    "name": "GPU Model 404",
+    "score": 4404
+  },
+  {
+    "id": 405,
+    "name": "GPU Model 405",
+    "score": 4405
+  },
+  {
+    "id": 406,
+    "name": "GPU Model 406",
+    "score": 4406
+  },
+  {
+    "id": 407,
+    "name": "GPU Model 407",
+    "score": 4407
+  },
+  {
+    "id": 408,
+    "name": "GPU Model 408",
+    "score": 4408
+  },
+  {
+    "id": 409,
+    "name": "GPU Model 409",
+    "score": 4409
+  },
+  {
+    "id": 410,
+    "name": "GPU Model 410",
+    "score": 4410
+  },
+  {
+    "id": 411,
+    "name": "GPU Model 411",
+    "score": 4411
+  },
+  {
+    "id": 412,
+    "name": "GPU Model 412",
+    "score": 4412
+  },
+  {
+    "id": 413,
+    "name": "GPU Model 413",
+    "score": 4413
+  },
+  {
+    "id": 414,
+    "name": "GPU Model 414",
+    "score": 4414
+  },
+  {
+    "id": 415,
+    "name": "GPU Model 415",
+    "score": 4415
+  },
+  {
+    "id": 416,
+    "name": "GPU Model 416",
+    "score": 4416
+  },
+  {
+    "id": 417,
+    "name": "GPU Model 417",
+    "score": 4417
+  },
+  {
+    "id": 418,
+    "name": "GPU Model 418",
+    "score": 4418
+  },
+  {
+    "id": 419,
+    "name": "GPU Model 419",
+    "score": 4419
+  },
+  {
+    "id": 420,
+    "name": "GPU Model 420",
+    "score": 4420
+  },
+  {
+    "id": 421,
+    "name": "GPU Model 421",
+    "score": 4421
+  },
+  {
+    "id": 422,
+    "name": "GPU Model 422",
+    "score": 4422
+  },
+  {
+    "id": 423,
+    "name": "GPU Model 423",
+    "score": 4423
+  },
+  {
+    "id": 424,
+    "name": "GPU Model 424",
+    "score": 4424
+  },
+  {
+    "id": 425,
+    "name": "GPU Model 425",
+    "score": 4425
+  },
+  {
+    "id": 426,
+    "name": "GPU Model 426",
+    "score": 4426
+  },
+  {
+    "id": 427,
+    "name": "GPU Model 427",
+    "score": 4427
+  },
+  {
+    "id": 428,
+    "name": "GPU Model 428",
+    "score": 4428
+  },
+  {
+    "id": 429,
+    "name": "GPU Model 429",
+    "score": 4429
+  },
+  {
+    "id": 430,
+    "name": "GPU Model 430",
+    "score": 4430
+  },
+  {
+    "id": 431,
+    "name": "GPU Model 431",
+    "score": 4431
+  },
+  {
+    "id": 432,
+    "name": "GPU Model 432",
+    "score": 4432
+  },
+  {
+    "id": 433,
+    "name": "GPU Model 433",
+    "score": 4433
+  },
+  {
+    "id": 434,
+    "name": "GPU Model 434",
+    "score": 4434
+  },
+  {
+    "id": 435,
+    "name": "GPU Model 435",
+    "score": 4435
+  },
+  {
+    "id": 436,
+    "name": "GPU Model 436",
+    "score": 4436
+  },
+  {
+    "id": 437,
+    "name": "GPU Model 437",
+    "score": 4437
+  },
+  {
+    "id": 438,
+    "name": "GPU Model 438",
+    "score": 4438
+  },
+  {
+    "id": 439,
+    "name": "GPU Model 439",
+    "score": 4439
+  },
+  {
+    "id": 440,
+    "name": "GPU Model 440",
+    "score": 4440
+  },
+  {
+    "id": 441,
+    "name": "GPU Model 441",
+    "score": 4441
+  },
+  {
+    "id": 442,
+    "name": "GPU Model 442",
+    "score": 4442
+  },
+  {
+    "id": 443,
+    "name": "GPU Model 443",
+    "score": 4443
+  },
+  {
+    "id": 444,
+    "name": "GPU Model 444",
+    "score": 4444
+  },
+  {
+    "id": 445,
+    "name": "GPU Model 445",
+    "score": 4445
+  },
+  {
+    "id": 446,
+    "name": "GPU Model 446",
+    "score": 4446
+  },
+  {
+    "id": 447,
+    "name": "GPU Model 447",
+    "score": 4447
+  },
+  {
+    "id": 448,
+    "name": "GPU Model 448",
+    "score": 4448
+  },
+  {
+    "id": 449,
+    "name": "GPU Model 449",
+    "score": 4449
+  },
+  {
+    "id": 450,
+    "name": "GPU Model 450",
+    "score": 4450
+  },
+  {
+    "id": 451,
+    "name": "GPU Model 451",
+    "score": 4451
+  },
+  {
+    "id": 452,
+    "name": "GPU Model 452",
+    "score": 4452
+  },
+  {
+    "id": 453,
+    "name": "GPU Model 453",
+    "score": 4453
+  },
+  {
+    "id": 454,
+    "name": "GPU Model 454",
+    "score": 4454
+  },
+  {
+    "id": 455,
+    "name": "GPU Model 455",
+    "score": 4455
+  },
+  {
+    "id": 456,
+    "name": "GPU Model 456",
+    "score": 4456
+  },
+  {
+    "id": 457,
+    "name": "GPU Model 457",
+    "score": 4457
+  },
+  {
+    "id": 458,
+    "name": "GPU Model 458",
+    "score": 4458
+  },
+  {
+    "id": 459,
+    "name": "GPU Model 459",
+    "score": 4459
+  },
+  {
+    "id": 460,
+    "name": "GPU Model 460",
+    "score": 4460
+  },
+  {
+    "id": 461,
+    "name": "GPU Model 461",
+    "score": 4461
+  },
+  {
+    "id": 462,
+    "name": "GPU Model 462",
+    "score": 4462
+  },
+  {
+    "id": 463,
+    "name": "GPU Model 463",
+    "score": 4463
+  },
+  {
+    "id": 464,
+    "name": "GPU Model 464",
+    "score": 4464
+  },
+  {
+    "id": 465,
+    "name": "GPU Model 465",
+    "score": 4465
+  },
+  {
+    "id": 466,
+    "name": "GPU Model 466",
+    "score": 4466
+  },
+  {
+    "id": 467,
+    "name": "GPU Model 467",
+    "score": 4467
+  },
+  {
+    "id": 468,
+    "name": "GPU Model 468",
+    "score": 4468
+  },
+  {
+    "id": 469,
+    "name": "GPU Model 469",
+    "score": 4469
+  },
+  {
+    "id": 470,
+    "name": "GPU Model 470",
+    "score": 4470
+  },
+  {
+    "id": 471,
+    "name": "GPU Model 471",
+    "score": 4471
+  },
+  {
+    "id": 472,
+    "name": "GPU Model 472",
+    "score": 4472
+  },
+  {
+    "id": 473,
+    "name": "GPU Model 473",
+    "score": 4473
+  },
+  {
+    "id": 474,
+    "name": "GPU Model 474",
+    "score": 4474
+  },
+  {
+    "id": 475,
+    "name": "GPU Model 475",
+    "score": 4475
+  },
+  {
+    "id": 476,
+    "name": "GPU Model 476",
+    "score": 4476
+  },
+  {
+    "id": 477,
+    "name": "GPU Model 477",
+    "score": 4477
+  },
+  {
+    "id": 478,
+    "name": "GPU Model 478",
+    "score": 4478
+  },
+  {
+    "id": 479,
+    "name": "GPU Model 479",
+    "score": 4479
+  },
+  {
+    "id": 480,
+    "name": "GPU Model 480",
+    "score": 4480
+  },
+  {
+    "id": 481,
+    "name": "GPU Model 481",
+    "score": 4481
+  },
+  {
+    "id": 482,
+    "name": "GPU Model 482",
+    "score": 4482
+  },
+  {
+    "id": 483,
+    "name": "GPU Model 483",
+    "score": 4483
+  },
+  {
+    "id": 484,
+    "name": "GPU Model 484",
+    "score": 4484
+  },
+  {
+    "id": 485,
+    "name": "GPU Model 485",
+    "score": 4485
+  },
+  {
+    "id": 486,
+    "name": "GPU Model 486",
+    "score": 4486
+  },
+  {
+    "id": 487,
+    "name": "GPU Model 487",
+    "score": 4487
+  },
+  {
+    "id": 488,
+    "name": "GPU Model 488",
+    "score": 4488
+  },
+  {
+    "id": 489,
+    "name": "GPU Model 489",
+    "score": 4489
+  },
+  {
+    "id": 490,
+    "name": "GPU Model 490",
+    "score": 4490
+  },
+  {
+    "id": 491,
+    "name": "GPU Model 491",
+    "score": 4491
+  },
+  {
+    "id": 492,
+    "name": "GPU Model 492",
+    "score": 4492
+  },
+  {
+    "id": 493,
+    "name": "GPU Model 493",
+    "score": 4493
+  },
+  {
+    "id": 494,
+    "name": "GPU Model 494",
+    "score": 4494
+  },
+  {
+    "id": 495,
+    "name": "GPU Model 495",
+    "score": 4495
+  },
+  {
+    "id": 496,
+    "name": "GPU Model 496",
+    "score": 4496
+  },
+  {
+    "id": 497,
+    "name": "GPU Model 497",
+    "score": 4497
+  },
+  {
+    "id": 498,
+    "name": "GPU Model 498",
+    "score": 4498
+  },
+  {
+    "id": 499,
+    "name": "GPU Model 499",
+    "score": 4499
+  },
+  {
+    "id": 500,
+    "name": "GPU Model 500",
+    "score": 4500
+  },
+  {
+    "id": 501,
+    "name": "GPU Model 501",
+    "score": 4501
+  },
+  {
+    "id": 502,
+    "name": "GPU Model 502",
+    "score": 4502
+  },
+  {
+    "id": 503,
+    "name": "GPU Model 503",
+    "score": 4503
+  },
+  {
+    "id": 504,
+    "name": "GPU Model 504",
+    "score": 4504
+  },
+  {
+    "id": 505,
+    "name": "GPU Model 505",
+    "score": 4505
+  },
+  {
+    "id": 506,
+    "name": "GPU Model 506",
+    "score": 4506
+  },
+  {
+    "id": 507,
+    "name": "GPU Model 507",
+    "score": 4507
+  },
+  {
+    "id": 508,
+    "name": "GPU Model 508",
+    "score": 4508
+  },
+  {
+    "id": 509,
+    "name": "GPU Model 509",
+    "score": 4509
+  },
+  {
+    "id": 510,
+    "name": "GPU Model 510",
+    "score": 4510
+  },
+  {
+    "id": 511,
+    "name": "GPU Model 511",
+    "score": 4511
+  },
+  {
+    "id": 512,
+    "name": "GPU Model 512",
+    "score": 4512
+  },
+  {
+    "id": 513,
+    "name": "GPU Model 513",
+    "score": 4513
+  },
+  {
+    "id": 514,
+    "name": "GPU Model 514",
+    "score": 4514
+  },
+  {
+    "id": 515,
+    "name": "GPU Model 515",
+    "score": 4515
+  },
+  {
+    "id": 516,
+    "name": "GPU Model 516",
+    "score": 4516
+  },
+  {
+    "id": 517,
+    "name": "GPU Model 517",
+    "score": 4517
+  },
+  {
+    "id": 518,
+    "name": "GPU Model 518",
+    "score": 4518
+  },
+  {
+    "id": 519,
+    "name": "GPU Model 519",
+    "score": 4519
+  },
+  {
+    "id": 520,
+    "name": "GPU Model 520",
+    "score": 4520
+  },
+  {
+    "id": 521,
+    "name": "GPU Model 521",
+    "score": 4521
+  },
+  {
+    "id": 522,
+    "name": "GPU Model 522",
+    "score": 4522
+  },
+  {
+    "id": 523,
+    "name": "GPU Model 523",
+    "score": 4523
+  },
+  {
+    "id": 524,
+    "name": "GPU Model 524",
+    "score": 4524
+  },
+  {
+    "id": 525,
+    "name": "GPU Model 525",
+    "score": 4525
+  },
+  {
+    "id": 526,
+    "name": "GPU Model 526",
+    "score": 4526
+  },
+  {
+    "id": 527,
+    "name": "GPU Model 527",
+    "score": 4527
+  },
+  {
+    "id": 528,
+    "name": "GPU Model 528",
+    "score": 4528
+  },
+  {
+    "id": 529,
+    "name": "GPU Model 529",
+    "score": 4529
+  },
+  {
+    "id": 530,
+    "name": "GPU Model 530",
+    "score": 4530
+  },
+  {
+    "id": 531,
+    "name": "GPU Model 531",
+    "score": 4531
+  },
+  {
+    "id": 532,
+    "name": "GPU Model 532",
+    "score": 4532
+  },
+  {
+    "id": 533,
+    "name": "GPU Model 533",
+    "score": 4533
+  },
+  {
+    "id": 534,
+    "name": "GPU Model 534",
+    "score": 4534
+  },
+  {
+    "id": 535,
+    "name": "GPU Model 535",
+    "score": 4535
+  },
+  {
+    "id": 536,
+    "name": "GPU Model 536",
+    "score": 4536
+  },
+  {
+    "id": 537,
+    "name": "GPU Model 537",
+    "score": 4537
+  },
+  {
+    "id": 538,
+    "name": "GPU Model 538",
+    "score": 4538
+  },
+  {
+    "id": 539,
+    "name": "GPU Model 539",
+    "score": 4539
+  },
+  {
+    "id": 540,
+    "name": "GPU Model 540",
+    "score": 4540
+  },
+  {
+    "id": 541,
+    "name": "GPU Model 541",
+    "score": 4541
+  },
+  {
+    "id": 542,
+    "name": "GPU Model 542",
+    "score": 4542
+  },
+  {
+    "id": 543,
+    "name": "GPU Model 543",
+    "score": 4543
+  },
+  {
+    "id": 544,
+    "name": "GPU Model 544",
+    "score": 4544
+  },
+  {
+    "id": 545,
+    "name": "GPU Model 545",
+    "score": 4545
+  },
+  {
+    "id": 546,
+    "name": "GPU Model 546",
+    "score": 4546
+  },
+  {
+    "id": 547,
+    "name": "GPU Model 547",
+    "score": 4547
+  },
+  {
+    "id": 548,
+    "name": "GPU Model 548",
+    "score": 4548
+  },
+  {
+    "id": 549,
+    "name": "GPU Model 549",
+    "score": 4549
+  },
+  {
+    "id": 550,
+    "name": "GPU Model 550",
+    "score": 4550
+  },
+  {
+    "id": 551,
+    "name": "GPU Model 551",
+    "score": 4551
+  },
+  {
+    "id": 552,
+    "name": "GPU Model 552",
+    "score": 4552
+  },
+  {
+    "id": 553,
+    "name": "GPU Model 553",
+    "score": 4553
+  },
+  {
+    "id": 554,
+    "name": "GPU Model 554",
+    "score": 4554
+  },
+  {
+    "id": 555,
+    "name": "GPU Model 555",
+    "score": 4555
+  },
+  {
+    "id": 556,
+    "name": "GPU Model 556",
+    "score": 4556
+  },
+  {
+    "id": 557,
+    "name": "GPU Model 557",
+    "score": 4557
+  },
+  {
+    "id": 558,
+    "name": "GPU Model 558",
+    "score": 4558
+  },
+  {
+    "id": 559,
+    "name": "GPU Model 559",
+    "score": 4559
+  },
+  {
+    "id": 560,
+    "name": "GPU Model 560",
+    "score": 4560
+  },
+  {
+    "id": 561,
+    "name": "GPU Model 561",
+    "score": 4561
+  },
+  {
+    "id": 562,
+    "name": "GPU Model 562",
+    "score": 4562
+  },
+  {
+    "id": 563,
+    "name": "GPU Model 563",
+    "score": 4563
+  },
+  {
+    "id": 564,
+    "name": "GPU Model 564",
+    "score": 4564
+  },
+  {
+    "id": 565,
+    "name": "GPU Model 565",
+    "score": 4565
+  },
+  {
+    "id": 566,
+    "name": "GPU Model 566",
+    "score": 4566
+  },
+  {
+    "id": 567,
+    "name": "GPU Model 567",
+    "score": 4567
+  },
+  {
+    "id": 568,
+    "name": "GPU Model 568",
+    "score": 4568
+  },
+  {
+    "id": 569,
+    "name": "GPU Model 569",
+    "score": 4569
+  },
+  {
+    "id": 570,
+    "name": "GPU Model 570",
+    "score": 4570
+  },
+  {
+    "id": 571,
+    "name": "GPU Model 571",
+    "score": 4571
+  },
+  {
+    "id": 572,
+    "name": "GPU Model 572",
+    "score": 4572
+  },
+  {
+    "id": 573,
+    "name": "GPU Model 573",
+    "score": 4573
+  },
+  {
+    "id": 574,
+    "name": "GPU Model 574",
+    "score": 4574
+  },
+  {
+    "id": 575,
+    "name": "GPU Model 575",
+    "score": 4575
+  },
+  {
+    "id": 576,
+    "name": "GPU Model 576",
+    "score": 4576
+  },
+  {
+    "id": 577,
+    "name": "GPU Model 577",
+    "score": 4577
+  },
+  {
+    "id": 578,
+    "name": "GPU Model 578",
+    "score": 4578
+  },
+  {
+    "id": 579,
+    "name": "GPU Model 579",
+    "score": 4579
+  },
+  {
+    "id": 580,
+    "name": "GPU Model 580",
+    "score": 4580
+  },
+  {
+    "id": 581,
+    "name": "GPU Model 581",
+    "score": 4581
+  },
+  {
+    "id": 582,
+    "name": "GPU Model 582",
+    "score": 4582
+  },
+  {
+    "id": 583,
+    "name": "GPU Model 583",
+    "score": 4583
+  },
+  {
+    "id": 584,
+    "name": "GPU Model 584",
+    "score": 4584
+  },
+  {
+    "id": 585,
+    "name": "GPU Model 585",
+    "score": 4585
+  },
+  {
+    "id": 586,
+    "name": "GPU Model 586",
+    "score": 4586
+  },
+  {
+    "id": 587,
+    "name": "GPU Model 587",
+    "score": 4587
+  },
+  {
+    "id": 588,
+    "name": "GPU Model 588",
+    "score": 4588
+  },
+  {
+    "id": 589,
+    "name": "GPU Model 589",
+    "score": 4589
+  },
+  {
+    "id": 590,
+    "name": "GPU Model 590",
+    "score": 4590
+  },
+  {
+    "id": 591,
+    "name": "GPU Model 591",
+    "score": 4591
+  },
+  {
+    "id": 592,
+    "name": "GPU Model 592",
+    "score": 4592
+  },
+  {
+    "id": 593,
+    "name": "GPU Model 593",
+    "score": 4593
+  },
+  {
+    "id": 594,
+    "name": "GPU Model 594",
+    "score": 4594
+  },
+  {
+    "id": 595,
+    "name": "GPU Model 595",
+    "score": 4595
+  },
+  {
+    "id": 596,
+    "name": "GPU Model 596",
+    "score": 4596
+  },
+  {
+    "id": 597,
+    "name": "GPU Model 597",
+    "score": 4597
+  },
+  {
+    "id": 598,
+    "name": "GPU Model 598",
+    "score": 4598
+  },
+  {
+    "id": 599,
+    "name": "GPU Model 599",
+    "score": 4599
+  },
+  {
+    "id": 600,
+    "name": "GPU Model 600",
+    "score": 4600
+  },
+  {
+    "id": 601,
+    "name": "GPU Model 601",
+    "score": 4601
+  },
+  {
+    "id": 602,
+    "name": "GPU Model 602",
+    "score": 4602
+  },
+  {
+    "id": 603,
+    "name": "GPU Model 603",
+    "score": 4603
+  },
+  {
+    "id": 604,
+    "name": "GPU Model 604",
+    "score": 4604
+  },
+  {
+    "id": 605,
+    "name": "GPU Model 605",
+    "score": 4605
+  },
+  {
+    "id": 606,
+    "name": "GPU Model 606",
+    "score": 4606
+  },
+  {
+    "id": 607,
+    "name": "GPU Model 607",
+    "score": 4607
+  },
+  {
+    "id": 608,
+    "name": "GPU Model 608",
+    "score": 4608
+  },
+  {
+    "id": 609,
+    "name": "GPU Model 609",
+    "score": 4609
+  },
+  {
+    "id": 610,
+    "name": "GPU Model 610",
+    "score": 4610
+  },
+  {
+    "id": 611,
+    "name": "GPU Model 611",
+    "score": 4611
+  },
+  {
+    "id": 612,
+    "name": "GPU Model 612",
+    "score": 4612
+  },
+  {
+    "id": 613,
+    "name": "GPU Model 613",
+    "score": 4613
+  },
+  {
+    "id": 614,
+    "name": "GPU Model 614",
+    "score": 4614
+  },
+  {
+    "id": 615,
+    "name": "GPU Model 615",
+    "score": 4615
+  },
+  {
+    "id": 616,
+    "name": "GPU Model 616",
+    "score": 4616
+  },
+  {
+    "id": 617,
+    "name": "GPU Model 617",
+    "score": 4617
+  },
+  {
+    "id": 618,
+    "name": "GPU Model 618",
+    "score": 4618
+  },
+  {
+    "id": 619,
+    "name": "GPU Model 619",
+    "score": 4619
+  },
+  {
+    "id": 620,
+    "name": "GPU Model 620",
+    "score": 4620
+  },
+  {
+    "id": 621,
+    "name": "GPU Model 621",
+    "score": 4621
+  },
+  {
+    "id": 622,
+    "name": "GPU Model 622",
+    "score": 4622
+  },
+  {
+    "id": 623,
+    "name": "GPU Model 623",
+    "score": 4623
+  },
+  {
+    "id": 624,
+    "name": "GPU Model 624",
+    "score": 4624
+  },
+  {
+    "id": 625,
+    "name": "GPU Model 625",
+    "score": 4625
+  },
+  {
+    "id": 626,
+    "name": "GPU Model 626",
+    "score": 4626
+  },
+  {
+    "id": 627,
+    "name": "GPU Model 627",
+    "score": 4627
+  },
+  {
+    "id": 628,
+    "name": "GPU Model 628",
+    "score": 4628
+  },
+  {
+    "id": 629,
+    "name": "GPU Model 629",
+    "score": 4629
+  },
+  {
+    "id": 630,
+    "name": "GPU Model 630",
+    "score": 4630
+  },
+  {
+    "id": 631,
+    "name": "GPU Model 631",
+    "score": 4631
+  },
+  {
+    "id": 632,
+    "name": "GPU Model 632",
+    "score": 4632
+  },
+  {
+    "id": 633,
+    "name": "GPU Model 633",
+    "score": 4633
+  },
+  {
+    "id": 634,
+    "name": "GPU Model 634",
+    "score": 4634
+  },
+  {
+    "id": 635,
+    "name": "GPU Model 635",
+    "score": 4635
+  },
+  {
+    "id": 636,
+    "name": "GPU Model 636",
+    "score": 4636
+  },
+  {
+    "id": 637,
+    "name": "GPU Model 637",
+    "score": 4637
+  },
+  {
+    "id": 638,
+    "name": "GPU Model 638",
+    "score": 4638
+  },
+  {
+    "id": 639,
+    "name": "GPU Model 639",
+    "score": 4639
+  },
+  {
+    "id": 640,
+    "name": "GPU Model 640",
+    "score": 4640
+  },
+  {
+    "id": 641,
+    "name": "GPU Model 641",
+    "score": 4641
+  },
+  {
+    "id": 642,
+    "name": "GPU Model 642",
+    "score": 4642
+  },
+  {
+    "id": 643,
+    "name": "GPU Model 643",
+    "score": 4643
+  },
+  {
+    "id": 644,
+    "name": "GPU Model 644",
+    "score": 4644
+  },
+  {
+    "id": 645,
+    "name": "GPU Model 645",
+    "score": 4645
+  },
+  {
+    "id": 646,
+    "name": "GPU Model 646",
+    "score": 4646
+  },
+  {
+    "id": 647,
+    "name": "GPU Model 647",
+    "score": 4647
+  },
+  {
+    "id": 648,
+    "name": "GPU Model 648",
+    "score": 4648
+  },
+  {
+    "id": 649,
+    "name": "GPU Model 649",
+    "score": 4649
+  },
+  {
+    "id": 650,
+    "name": "GPU Model 650",
+    "score": 4650
+  },
+  {
+    "id": 651,
+    "name": "GPU Model 651",
+    "score": 4651
+  },
+  {
+    "id": 652,
+    "name": "GPU Model 652",
+    "score": 4652
+  },
+  {
+    "id": 653,
+    "name": "GPU Model 653",
+    "score": 4653
+  },
+  {
+    "id": 654,
+    "name": "GPU Model 654",
+    "score": 4654
+  },
+  {
+    "id": 655,
+    "name": "GPU Model 655",
+    "score": 4655
+  },
+  {
+    "id": 656,
+    "name": "GPU Model 656",
+    "score": 4656
+  },
+  {
+    "id": 657,
+    "name": "GPU Model 657",
+    "score": 4657
+  },
+  {
+    "id": 658,
+    "name": "GPU Model 658",
+    "score": 4658
+  },
+  {
+    "id": 659,
+    "name": "GPU Model 659",
+    "score": 4659
+  },
+  {
+    "id": 660,
+    "name": "GPU Model 660",
+    "score": 4660
+  },
+  {
+    "id": 661,
+    "name": "GPU Model 661",
+    "score": 4661
+  },
+  {
+    "id": 662,
+    "name": "GPU Model 662",
+    "score": 4662
+  },
+  {
+    "id": 663,
+    "name": "GPU Model 663",
+    "score": 4663
+  },
+  {
+    "id": 664,
+    "name": "GPU Model 664",
+    "score": 4664
+  },
+  {
+    "id": 665,
+    "name": "GPU Model 665",
+    "score": 4665
+  },
+  {
+    "id": 666,
+    "name": "GPU Model 666",
+    "score": 4666
+  },
+  {
+    "id": 667,
+    "name": "GPU Model 667",
+    "score": 4667
+  },
+  {
+    "id": 668,
+    "name": "GPU Model 668",
+    "score": 4668
+  },
+  {
+    "id": 669,
+    "name": "GPU Model 669",
+    "score": 4669
+  },
+  {
+    "id": 670,
+    "name": "GPU Model 670",
+    "score": 4670
+  },
+  {
+    "id": 671,
+    "name": "GPU Model 671",
+    "score": 4671
+  },
+  {
+    "id": 672,
+    "name": "GPU Model 672",
+    "score": 4672
+  },
+  {
+    "id": 673,
+    "name": "GPU Model 673",
+    "score": 4673
+  },
+  {
+    "id": 674,
+    "name": "GPU Model 674",
+    "score": 4674
+  },
+  {
+    "id": 675,
+    "name": "GPU Model 675",
+    "score": 4675
+  },
+  {
+    "id": 676,
+    "name": "GPU Model 676",
+    "score": 4676
+  },
+  {
+    "id": 677,
+    "name": "GPU Model 677",
+    "score": 4677
+  },
+  {
+    "id": 678,
+    "name": "GPU Model 678",
+    "score": 4678
+  },
+  {
+    "id": 679,
+    "name": "GPU Model 679",
+    "score": 4679
+  },
+  {
+    "id": 680,
+    "name": "GPU Model 680",
+    "score": 4680
+  },
+  {
+    "id": 681,
+    "name": "GPU Model 681",
+    "score": 4681
+  },
+  {
+    "id": 682,
+    "name": "GPU Model 682",
+    "score": 4682
+  },
+  {
+    "id": 683,
+    "name": "GPU Model 683",
+    "score": 4683
+  },
+  {
+    "id": 684,
+    "name": "GPU Model 684",
+    "score": 4684
+  },
+  {
+    "id": 685,
+    "name": "GPU Model 685",
+    "score": 4685
+  },
+  {
+    "id": 686,
+    "name": "GPU Model 686",
+    "score": 4686
+  },
+  {
+    "id": 687,
+    "name": "GPU Model 687",
+    "score": 4687
+  },
+  {
+    "id": 688,
+    "name": "GPU Model 688",
+    "score": 4688
+  },
+  {
+    "id": 689,
+    "name": "GPU Model 689",
+    "score": 4689
+  },
+  {
+    "id": 690,
+    "name": "GPU Model 690",
+    "score": 4690
+  },
+  {
+    "id": 691,
+    "name": "GPU Model 691",
+    "score": 4691
+  },
+  {
+    "id": 692,
+    "name": "GPU Model 692",
+    "score": 4692
+  },
+  {
+    "id": 693,
+    "name": "GPU Model 693",
+    "score": 4693
+  },
+  {
+    "id": 694,
+    "name": "GPU Model 694",
+    "score": 4694
+  },
+  {
+    "id": 695,
+    "name": "GPU Model 695",
+    "score": 4695
+  },
+  {
+    "id": 696,
+    "name": "GPU Model 696",
+    "score": 4696
+  },
+  {
+    "id": 697,
+    "name": "GPU Model 697",
+    "score": 4697
+  },
+  {
+    "id": 698,
+    "name": "GPU Model 698",
+    "score": 4698
+  },
+  {
+    "id": 699,
+    "name": "GPU Model 699",
+    "score": 4699
+  },
+  {
+    "id": 700,
+    "name": "GPU Model 700",
+    "score": 4700
+  },
+  {
+    "id": 701,
+    "name": "GPU Model 701",
+    "score": 4701
+  },
+  {
+    "id": 702,
+    "name": "GPU Model 702",
+    "score": 4702
+  },
+  {
+    "id": 703,
+    "name": "GPU Model 703",
+    "score": 4703
+  },
+  {
+    "id": 704,
+    "name": "GPU Model 704",
+    "score": 4704
+  },
+  {
+    "id": 705,
+    "name": "GPU Model 705",
+    "score": 4705
+  },
+  {
+    "id": 706,
+    "name": "GPU Model 706",
+    "score": 4706
+  },
+  {
+    "id": 707,
+    "name": "GPU Model 707",
+    "score": 4707
+  },
+  {
+    "id": 708,
+    "name": "GPU Model 708",
+    "score": 4708
+  },
+  {
+    "id": 709,
+    "name": "GPU Model 709",
+    "score": 4709
+  },
+  {
+    "id": 710,
+    "name": "GPU Model 710",
+    "score": 4710
+  },
+  {
+    "id": 711,
+    "name": "GPU Model 711",
+    "score": 4711
+  },
+  {
+    "id": 712,
+    "name": "GPU Model 712",
+    "score": 4712
+  },
+  {
+    "id": 713,
+    "name": "GPU Model 713",
+    "score": 4713
+  },
+  {
+    "id": 714,
+    "name": "GPU Model 714",
+    "score": 4714
+  },
+  {
+    "id": 715,
+    "name": "GPU Model 715",
+    "score": 4715
+  },
+  {
+    "id": 716,
+    "name": "GPU Model 716",
+    "score": 4716
+  },
+  {
+    "id": 717,
+    "name": "GPU Model 717",
+    "score": 4717
+  },
+  {
+    "id": 718,
+    "name": "GPU Model 718",
+    "score": 4718
+  },
+  {
+    "id": 719,
+    "name": "GPU Model 719",
+    "score": 4719
+  },
+  {
+    "id": 720,
+    "name": "GPU Model 720",
+    "score": 4720
+  },
+  {
+    "id": 721,
+    "name": "GPU Model 721",
+    "score": 4721
+  },
+  {
+    "id": 722,
+    "name": "GPU Model 722",
+    "score": 4722
+  },
+  {
+    "id": 723,
+    "name": "GPU Model 723",
+    "score": 4723
+  },
+  {
+    "id": 724,
+    "name": "GPU Model 724",
+    "score": 4724
+  },
+  {
+    "id": 725,
+    "name": "GPU Model 725",
+    "score": 4725
+  },
+  {
+    "id": 726,
+    "name": "GPU Model 726",
+    "score": 4726
+  },
+  {
+    "id": 727,
+    "name": "GPU Model 727",
+    "score": 4727
+  },
+  {
+    "id": 728,
+    "name": "GPU Model 728",
+    "score": 4728
+  },
+  {
+    "id": 729,
+    "name": "GPU Model 729",
+    "score": 4729
+  },
+  {
+    "id": 730,
+    "name": "GPU Model 730",
+    "score": 4730
+  },
+  {
+    "id": 731,
+    "name": "GPU Model 731",
+    "score": 4731
+  },
+  {
+    "id": 732,
+    "name": "GPU Model 732",
+    "score": 4732
+  },
+  {
+    "id": 733,
+    "name": "GPU Model 733",
+    "score": 4733
+  },
+  {
+    "id": 734,
+    "name": "GPU Model 734",
+    "score": 4734
+  },
+  {
+    "id": 735,
+    "name": "GPU Model 735",
+    "score": 4735
+  },
+  {
+    "id": 736,
+    "name": "GPU Model 736",
+    "score": 4736
+  },
+  {
+    "id": 737,
+    "name": "GPU Model 737",
+    "score": 4737
+  },
+  {
+    "id": 738,
+    "name": "GPU Model 738",
+    "score": 4738
+  },
+  {
+    "id": 739,
+    "name": "GPU Model 739",
+    "score": 4739
+  },
+  {
+    "id": 740,
+    "name": "GPU Model 740",
+    "score": 4740
+  },
+  {
+    "id": 741,
+    "name": "GPU Model 741",
+    "score": 4741
+  },
+  {
+    "id": 742,
+    "name": "GPU Model 742",
+    "score": 4742
+  },
+  {
+    "id": 743,
+    "name": "GPU Model 743",
+    "score": 4743
+  },
+  {
+    "id": 744,
+    "name": "GPU Model 744",
+    "score": 4744
+  },
+  {
+    "id": 745,
+    "name": "GPU Model 745",
+    "score": 4745
+  },
+  {
+    "id": 746,
+    "name": "GPU Model 746",
+    "score": 4746
+  },
+  {
+    "id": 747,
+    "name": "GPU Model 747",
+    "score": 4747
+  },
+  {
+    "id": 748,
+    "name": "GPU Model 748",
+    "score": 4748
+  },
+  {
+    "id": 749,
+    "name": "GPU Model 749",
+    "score": 4749
+  },
+  {
+    "id": 750,
+    "name": "GPU Model 750",
+    "score": 4750
+  },
+  {
+    "id": 751,
+    "name": "GPU Model 751",
+    "score": 4751
+  },
+  {
+    "id": 752,
+    "name": "GPU Model 752",
+    "score": 4752
+  },
+  {
+    "id": 753,
+    "name": "GPU Model 753",
+    "score": 4753
+  },
+  {
+    "id": 754,
+    "name": "GPU Model 754",
+    "score": 4754
+  },
+  {
+    "id": 755,
+    "name": "GPU Model 755",
+    "score": 4755
+  },
+  {
+    "id": 756,
+    "name": "GPU Model 756",
+    "score": 4756
+  },
+  {
+    "id": 757,
+    "name": "GPU Model 757",
+    "score": 4757
+  },
+  {
+    "id": 758,
+    "name": "GPU Model 758",
+    "score": 4758
+  },
+  {
+    "id": 759,
+    "name": "GPU Model 759",
+    "score": 4759
+  },
+  {
+    "id": 760,
+    "name": "GPU Model 760",
+    "score": 4760
+  },
+  {
+    "id": 761,
+    "name": "GPU Model 761",
+    "score": 4761
+  },
+  {
+    "id": 762,
+    "name": "GPU Model 762",
+    "score": 4762
+  },
+  {
+    "id": 763,
+    "name": "GPU Model 763",
+    "score": 4763
+  },
+  {
+    "id": 764,
+    "name": "GPU Model 764",
+    "score": 4764
+  },
+  {
+    "id": 765,
+    "name": "GPU Model 765",
+    "score": 4765
+  },
+  {
+    "id": 766,
+    "name": "GPU Model 766",
+    "score": 4766
+  },
+  {
+    "id": 767,
+    "name": "GPU Model 767",
+    "score": 4767
+  },
+  {
+    "id": 768,
+    "name": "GPU Model 768",
+    "score": 4768
+  },
+  {
+    "id": 769,
+    "name": "GPU Model 769",
+    "score": 4769
+  },
+  {
+    "id": 770,
+    "name": "GPU Model 770",
+    "score": 4770
+  },
+  {
+    "id": 771,
+    "name": "GPU Model 771",
+    "score": 4771
+  },
+  {
+    "id": 772,
+    "name": "GPU Model 772",
+    "score": 4772
+  },
+  {
+    "id": 773,
+    "name": "GPU Model 773",
+    "score": 4773
+  },
+  {
+    "id": 774,
+    "name": "GPU Model 774",
+    "score": 4774
+  },
+  {
+    "id": 775,
+    "name": "GPU Model 775",
+    "score": 4775
+  },
+  {
+    "id": 776,
+    "name": "GPU Model 776",
+    "score": 4776
+  },
+  {
+    "id": 777,
+    "name": "GPU Model 777",
+    "score": 4777
+  },
+  {
+    "id": 778,
+    "name": "GPU Model 778",
+    "score": 4778
+  },
+  {
+    "id": 779,
+    "name": "GPU Model 779",
+    "score": 4779
+  },
+  {
+    "id": 780,
+    "name": "GPU Model 780",
+    "score": 4780
+  },
+  {
+    "id": 781,
+    "name": "GPU Model 781",
+    "score": 4781
+  },
+  {
+    "id": 782,
+    "name": "GPU Model 782",
+    "score": 4782
+  },
+  {
+    "id": 783,
+    "name": "GPU Model 783",
+    "score": 4783
+  },
+  {
+    "id": 784,
+    "name": "GPU Model 784",
+    "score": 4784
+  },
+  {
+    "id": 785,
+    "name": "GPU Model 785",
+    "score": 4785
+  },
+  {
+    "id": 786,
+    "name": "GPU Model 786",
+    "score": 4786
+  },
+  {
+    "id": 787,
+    "name": "GPU Model 787",
+    "score": 4787
+  },
+  {
+    "id": 788,
+    "name": "GPU Model 788",
+    "score": 4788
+  },
+  {
+    "id": 789,
+    "name": "GPU Model 789",
+    "score": 4789
+  },
+  {
+    "id": 790,
+    "name": "GPU Model 790",
+    "score": 4790
+  },
+  {
+    "id": 791,
+    "name": "GPU Model 791",
+    "score": 4791
+  },
+  {
+    "id": 792,
+    "name": "GPU Model 792",
+    "score": 4792
+  },
+  {
+    "id": 793,
+    "name": "GPU Model 793",
+    "score": 4793
+  },
+  {
+    "id": 794,
+    "name": "GPU Model 794",
+    "score": 4794
+  },
+  {
+    "id": 795,
+    "name": "GPU Model 795",
+    "score": 4795
+  },
+  {
+    "id": 796,
+    "name": "GPU Model 796",
+    "score": 4796
+  },
+  {
+    "id": 797,
+    "name": "GPU Model 797",
+    "score": 4797
+  },
+  {
+    "id": 798,
+    "name": "GPU Model 798",
+    "score": 4798
+  },
+  {
+    "id": 799,
+    "name": "GPU Model 799",
+    "score": 4799
+  },
+  {
+    "id": 800,
+    "name": "GPU Model 800",
+    "score": 4800
+  },
+  {
+    "id": 801,
+    "name": "GPU Model 801",
+    "score": 4801
+  },
+  {
+    "id": 802,
+    "name": "GPU Model 802",
+    "score": 4802
+  },
+  {
+    "id": 803,
+    "name": "GPU Model 803",
+    "score": 4803
+  },
+  {
+    "id": 804,
+    "name": "GPU Model 804",
+    "score": 4804
+  },
+  {
+    "id": 805,
+    "name": "GPU Model 805",
+    "score": 4805
+  },
+  {
+    "id": 806,
+    "name": "GPU Model 806",
+    "score": 4806
+  },
+  {
+    "id": 807,
+    "name": "GPU Model 807",
+    "score": 4807
+  },
+  {
+    "id": 808,
+    "name": "GPU Model 808",
+    "score": 4808
+  },
+  {
+    "id": 809,
+    "name": "GPU Model 809",
+    "score": 4809
+  },
+  {
+    "id": 810,
+    "name": "GPU Model 810",
+    "score": 4810
+  },
+  {
+    "id": 811,
+    "name": "GPU Model 811",
+    "score": 4811
+  },
+  {
+    "id": 812,
+    "name": "GPU Model 812",
+    "score": 4812
+  },
+  {
+    "id": 813,
+    "name": "GPU Model 813",
+    "score": 4813
+  },
+  {
+    "id": 814,
+    "name": "GPU Model 814",
+    "score": 4814
+  },
+  {
+    "id": 815,
+    "name": "GPU Model 815",
+    "score": 4815
+  },
+  {
+    "id": 816,
+    "name": "GPU Model 816",
+    "score": 4816
+  },
+  {
+    "id": 817,
+    "name": "GPU Model 817",
+    "score": 4817
+  },
+  {
+    "id": 818,
+    "name": "GPU Model 818",
+    "score": 4818
+  },
+  {
+    "id": 819,
+    "name": "GPU Model 819",
+    "score": 4819
+  },
+  {
+    "id": 820,
+    "name": "GPU Model 820",
+    "score": 4820
+  },
+  {
+    "id": 821,
+    "name": "GPU Model 821",
+    "score": 4821
+  },
+  {
+    "id": 822,
+    "name": "GPU Model 822",
+    "score": 4822
+  },
+  {
+    "id": 823,
+    "name": "GPU Model 823",
+    "score": 4823
+  },
+  {
+    "id": 824,
+    "name": "GPU Model 824",
+    "score": 4824
+  },
+  {
+    "id": 825,
+    "name": "GPU Model 825",
+    "score": 4825
+  },
+  {
+    "id": 826,
+    "name": "GPU Model 826",
+    "score": 4826
+  },
+  {
+    "id": 827,
+    "name": "GPU Model 827",
+    "score": 4827
+  },
+  {
+    "id": 828,
+    "name": "GPU Model 828",
+    "score": 4828
+  },
+  {
+    "id": 829,
+    "name": "GPU Model 829",
+    "score": 4829
+  },
+  {
+    "id": 830,
+    "name": "GPU Model 830",
+    "score": 4830
+  },
+  {
+    "id": 831,
+    "name": "GPU Model 831",
+    "score": 4831
+  },
+  {
+    "id": 832,
+    "name": "GPU Model 832",
+    "score": 4832
+  },
+  {
+    "id": 833,
+    "name": "GPU Model 833",
+    "score": 4833
+  },
+  {
+    "id": 834,
+    "name": "GPU Model 834",
+    "score": 4834
+  },
+  {
+    "id": 835,
+    "name": "GPU Model 835",
+    "score": 4835
+  },
+  {
+    "id": 836,
+    "name": "GPU Model 836",
+    "score": 4836
+  },
+  {
+    "id": 837,
+    "name": "GPU Model 837",
+    "score": 4837
+  },
+  {
+    "id": 838,
+    "name": "GPU Model 838",
+    "score": 4838
+  },
+  {
+    "id": 839,
+    "name": "GPU Model 839",
+    "score": 4839
+  },
+  {
+    "id": 840,
+    "name": "GPU Model 840",
+    "score": 4840
+  },
+  {
+    "id": 841,
+    "name": "GPU Model 841",
+    "score": 4841
+  },
+  {
+    "id": 842,
+    "name": "GPU Model 842",
+    "score": 4842
+  },
+  {
+    "id": 843,
+    "name": "GPU Model 843",
+    "score": 4843
+  },
+  {
+    "id": 844,
+    "name": "GPU Model 844",
+    "score": 4844
+  },
+  {
+    "id": 845,
+    "name": "GPU Model 845",
+    "score": 4845
+  },
+  {
+    "id": 846,
+    "name": "GPU Model 846",
+    "score": 4846
+  },
+  {
+    "id": 847,
+    "name": "GPU Model 847",
+    "score": 4847
+  },
+  {
+    "id": 848,
+    "name": "GPU Model 848",
+    "score": 4848
+  },
+  {
+    "id": 849,
+    "name": "GPU Model 849",
+    "score": 4849
+  },
+  {
+    "id": 850,
+    "name": "GPU Model 850",
+    "score": 4850
+  },
+  {
+    "id": 851,
+    "name": "GPU Model 851",
+    "score": 4851
+  },
+  {
+    "id": 852,
+    "name": "GPU Model 852",
+    "score": 4852
+  },
+  {
+    "id": 853,
+    "name": "GPU Model 853",
+    "score": 4853
+  },
+  {
+    "id": 854,
+    "name": "GPU Model 854",
+    "score": 4854
+  },
+  {
+    "id": 855,
+    "name": "GPU Model 855",
+    "score": 4855
+  },
+  {
+    "id": 856,
+    "name": "GPU Model 856",
+    "score": 4856
+  },
+  {
+    "id": 857,
+    "name": "GPU Model 857",
+    "score": 4857
+  },
+  {
+    "id": 858,
+    "name": "GPU Model 858",
+    "score": 4858
+  },
+  {
+    "id": 859,
+    "name": "GPU Model 859",
+    "score": 4859
+  },
+  {
+    "id": 860,
+    "name": "GPU Model 860",
+    "score": 4860
+  },
+  {
+    "id": 861,
+    "name": "GPU Model 861",
+    "score": 4861
+  },
+  {
+    "id": 862,
+    "name": "GPU Model 862",
+    "score": 4862
+  },
+  {
+    "id": 863,
+    "name": "GPU Model 863",
+    "score": 4863
+  },
+  {
+    "id": 864,
+    "name": "GPU Model 864",
+    "score": 4864
+  },
+  {
+    "id": 865,
+    "name": "GPU Model 865",
+    "score": 4865
+  },
+  {
+    "id": 866,
+    "name": "GPU Model 866",
+    "score": 4866
+  },
+  {
+    "id": 867,
+    "name": "GPU Model 867",
+    "score": 4867
+  },
+  {
+    "id": 868,
+    "name": "GPU Model 868",
+    "score": 4868
+  },
+  {
+    "id": 869,
+    "name": "GPU Model 869",
+    "score": 4869
+  },
+  {
+    "id": 870,
+    "name": "GPU Model 870",
+    "score": 4870
+  },
+  {
+    "id": 871,
+    "name": "GPU Model 871",
+    "score": 4871
+  },
+  {
+    "id": 872,
+    "name": "GPU Model 872",
+    "score": 4872
+  },
+  {
+    "id": 873,
+    "name": "GPU Model 873",
+    "score": 4873
+  },
+  {
+    "id": 874,
+    "name": "GPU Model 874",
+    "score": 4874
+  },
+  {
+    "id": 875,
+    "name": "GPU Model 875",
+    "score": 4875
+  },
+  {
+    "id": 876,
+    "name": "GPU Model 876",
+    "score": 4876
+  },
+  {
+    "id": 877,
+    "name": "GPU Model 877",
+    "score": 4877
+  },
+  {
+    "id": 878,
+    "name": "GPU Model 878",
+    "score": 4878
+  },
+  {
+    "id": 879,
+    "name": "GPU Model 879",
+    "score": 4879
+  },
+  {
+    "id": 880,
+    "name": "GPU Model 880",
+    "score": 4880
+  },
+  {
+    "id": 881,
+    "name": "GPU Model 881",
+    "score": 4881
+  },
+  {
+    "id": 882,
+    "name": "GPU Model 882",
+    "score": 4882
+  },
+  {
+    "id": 883,
+    "name": "GPU Model 883",
+    "score": 4883
+  },
+  {
+    "id": 884,
+    "name": "GPU Model 884",
+    "score": 4884
+  },
+  {
+    "id": 885,
+    "name": "GPU Model 885",
+    "score": 4885
+  },
+  {
+    "id": 886,
+    "name": "GPU Model 886",
+    "score": 4886
+  },
+  {
+    "id": 887,
+    "name": "GPU Model 887",
+    "score": 4887
+  },
+  {
+    "id": 888,
+    "name": "GPU Model 888",
+    "score": 4888
+  },
+  {
+    "id": 889,
+    "name": "GPU Model 889",
+    "score": 4889
+  },
+  {
+    "id": 890,
+    "name": "GPU Model 890",
+    "score": 4890
+  },
+  {
+    "id": 891,
+    "name": "GPU Model 891",
+    "score": 4891
+  },
+  {
+    "id": 892,
+    "name": "GPU Model 892",
+    "score": 4892
+  },
+  {
+    "id": 893,
+    "name": "GPU Model 893",
+    "score": 4893
+  },
+  {
+    "id": 894,
+    "name": "GPU Model 894",
+    "score": 4894
+  },
+  {
+    "id": 895,
+    "name": "GPU Model 895",
+    "score": 4895
+  },
+  {
+    "id": 896,
+    "name": "GPU Model 896",
+    "score": 4896
+  },
+  {
+    "id": 897,
+    "name": "GPU Model 897",
+    "score": 4897
+  },
+  {
+    "id": 898,
+    "name": "GPU Model 898",
+    "score": 4898
+  },
+  {
+    "id": 899,
+    "name": "GPU Model 899",
+    "score": 4899
+  },
+  {
+    "id": 900,
+    "name": "GPU Model 900",
+    "score": 4900
+  },
+  {
+    "id": 901,
+    "name": "GPU Model 901",
+    "score": 4901
+  },
+  {
+    "id": 902,
+    "name": "GPU Model 902",
+    "score": 4902
+  },
+  {
+    "id": 903,
+    "name": "GPU Model 903",
+    "score": 4903
+  },
+  {
+    "id": 904,
+    "name": "GPU Model 904",
+    "score": 4904
+  },
+  {
+    "id": 905,
+    "name": "GPU Model 905",
+    "score": 4905
+  },
+  {
+    "id": 906,
+    "name": "GPU Model 906",
+    "score": 4906
+  },
+  {
+    "id": 907,
+    "name": "GPU Model 907",
+    "score": 4907
+  },
+  {
+    "id": 908,
+    "name": "GPU Model 908",
+    "score": 4908
+  },
+  {
+    "id": 909,
+    "name": "GPU Model 909",
+    "score": 4909
+  },
+  {
+    "id": 910,
+    "name": "GPU Model 910",
+    "score": 4910
+  },
+  {
+    "id": 911,
+    "name": "GPU Model 911",
+    "score": 4911
+  },
+  {
+    "id": 912,
+    "name": "GPU Model 912",
+    "score": 4912
+  },
+  {
+    "id": 913,
+    "name": "GPU Model 913",
+    "score": 4913
+  },
+  {
+    "id": 914,
+    "name": "GPU Model 914",
+    "score": 4914
+  },
+  {
+    "id": 915,
+    "name": "GPU Model 915",
+    "score": 4915
+  },
+  {
+    "id": 916,
+    "name": "GPU Model 916",
+    "score": 4916
+  },
+  {
+    "id": 917,
+    "name": "GPU Model 917",
+    "score": 4917
+  },
+  {
+    "id": 918,
+    "name": "GPU Model 918",
+    "score": 4918
+  },
+  {
+    "id": 919,
+    "name": "GPU Model 919",
+    "score": 4919
+  },
+  {
+    "id": 920,
+    "name": "GPU Model 920",
+    "score": 4920
+  },
+  {
+    "id": 921,
+    "name": "GPU Model 921",
+    "score": 4921
+  },
+  {
+    "id": 922,
+    "name": "GPU Model 922",
+    "score": 4922
+  },
+  {
+    "id": 923,
+    "name": "GPU Model 923",
+    "score": 4923
+  },
+  {
+    "id": 924,
+    "name": "GPU Model 924",
+    "score": 4924
+  },
+  {
+    "id": 925,
+    "name": "GPU Model 925",
+    "score": 4925
+  },
+  {
+    "id": 926,
+    "name": "GPU Model 926",
+    "score": 4926
+  },
+  {
+    "id": 927,
+    "name": "GPU Model 927",
+    "score": 4927
+  },
+  {
+    "id": 928,
+    "name": "GPU Model 928",
+    "score": 4928
+  },
+  {
+    "id": 929,
+    "name": "GPU Model 929",
+    "score": 4929
+  },
+  {
+    "id": 930,
+    "name": "GPU Model 930",
+    "score": 4930
+  },
+  {
+    "id": 931,
+    "name": "GPU Model 931",
+    "score": 4931
+  },
+  {
+    "id": 932,
+    "name": "GPU Model 932",
+    "score": 4932
+  },
+  {
+    "id": 933,
+    "name": "GPU Model 933",
+    "score": 4933
+  },
+  {
+    "id": 934,
+    "name": "GPU Model 934",
+    "score": 4934
+  },
+  {
+    "id": 935,
+    "name": "GPU Model 935",
+    "score": 4935
+  },
+  {
+    "id": 936,
+    "name": "GPU Model 936",
+    "score": 4936
+  },
+  {
+    "id": 937,
+    "name": "GPU Model 937",
+    "score": 4937
+  },
+  {
+    "id": 938,
+    "name": "GPU Model 938",
+    "score": 4938
+  },
+  {
+    "id": 939,
+    "name": "GPU Model 939",
+    "score": 4939
+  },
+  {
+    "id": 940,
+    "name": "GPU Model 940",
+    "score": 4940
+  },
+  {
+    "id": 941,
+    "name": "GPU Model 941",
+    "score": 4941
+  },
+  {
+    "id": 942,
+    "name": "GPU Model 942",
+    "score": 4942
+  },
+  {
+    "id": 943,
+    "name": "GPU Model 943",
+    "score": 4943
+  },
+  {
+    "id": 944,
+    "name": "GPU Model 944",
+    "score": 4944
+  },
+  {
+    "id": 945,
+    "name": "GPU Model 945",
+    "score": 4945
+  },
+  {
+    "id": 946,
+    "name": "GPU Model 946",
+    "score": 4946
+  },
+  {
+    "id": 947,
+    "name": "GPU Model 947",
+    "score": 4947
+  },
+  {
+    "id": 948,
+    "name": "GPU Model 948",
+    "score": 4948
+  },
+  {
+    "id": 949,
+    "name": "GPU Model 949",
+    "score": 4949
+  },
+  {
+    "id": 950,
+    "name": "GPU Model 950",
+    "score": 4950
+  },
+  {
+    "id": 951,
+    "name": "GPU Model 951",
+    "score": 4951
+  },
+  {
+    "id": 952,
+    "name": "GPU Model 952",
+    "score": 4952
+  },
+  {
+    "id": 953,
+    "name": "GPU Model 953",
+    "score": 4953
+  },
+  {
+    "id": 954,
+    "name": "GPU Model 954",
+    "score": 4954
+  },
+  {
+    "id": 955,
+    "name": "GPU Model 955",
+    "score": 4955
+  },
+  {
+    "id": 956,
+    "name": "GPU Model 956",
+    "score": 4956
+  },
+  {
+    "id": 957,
+    "name": "GPU Model 957",
+    "score": 4957
+  },
+  {
+    "id": 958,
+    "name": "GPU Model 958",
+    "score": 4958
+  },
+  {
+    "id": 959,
+    "name": "GPU Model 959",
+    "score": 4959
+  },
+  {
+    "id": 960,
+    "name": "GPU Model 960",
+    "score": 4960
+  },
+  {
+    "id": 961,
+    "name": "GPU Model 961",
+    "score": 4961
+  },
+  {
+    "id": 962,
+    "name": "GPU Model 962",
+    "score": 4962
+  },
+  {
+    "id": 963,
+    "name": "GPU Model 963",
+    "score": 4963
+  },
+  {
+    "id": 964,
+    "name": "GPU Model 964",
+    "score": 4964
+  },
+  {
+    "id": 965,
+    "name": "GPU Model 965",
+    "score": 4965
+  },
+  {
+    "id": 966,
+    "name": "GPU Model 966",
+    "score": 4966
+  },
+  {
+    "id": 967,
+    "name": "GPU Model 967",
+    "score": 4967
+  },
+  {
+    "id": 968,
+    "name": "GPU Model 968",
+    "score": 4968
+  },
+  {
+    "id": 969,
+    "name": "GPU Model 969",
+    "score": 4969
+  },
+  {
+    "id": 970,
+    "name": "GPU Model 970",
+    "score": 4970
+  },
+  {
+    "id": 971,
+    "name": "GPU Model 971",
+    "score": 4971
+  },
+  {
+    "id": 972,
+    "name": "GPU Model 972",
+    "score": 4972
+  },
+  {
+    "id": 973,
+    "name": "GPU Model 973",
+    "score": 4973
+  },
+  {
+    "id": 974,
+    "name": "GPU Model 974",
+    "score": 4974
+  },
+  {
+    "id": 975,
+    "name": "GPU Model 975",
+    "score": 4975
+  },
+  {
+    "id": 976,
+    "name": "GPU Model 976",
+    "score": 4976
+  },
+  {
+    "id": 977,
+    "name": "GPU Model 977",
+    "score": 4977
+  },
+  {
+    "id": 978,
+    "name": "GPU Model 978",
+    "score": 4978
+  },
+  {
+    "id": 979,
+    "name": "GPU Model 979",
+    "score": 4979
+  },
+  {
+    "id": 980,
+    "name": "GPU Model 980",
+    "score": 4980
+  },
+  {
+    "id": 981,
+    "name": "GPU Model 981",
+    "score": 4981
+  },
+  {
+    "id": 982,
+    "name": "GPU Model 982",
+    "score": 4982
+  },
+  {
+    "id": 983,
+    "name": "GPU Model 983",
+    "score": 4983
+  },
+  {
+    "id": 984,
+    "name": "GPU Model 984",
+    "score": 4984
+  },
+  {
+    "id": 985,
+    "name": "GPU Model 985",
+    "score": 4985
+  },
+  {
+    "id": 986,
+    "name": "GPU Model 986",
+    "score": 4986
+  },
+  {
+    "id": 987,
+    "name": "GPU Model 987",
+    "score": 4987
+  },
+  {
+    "id": 988,
+    "name": "GPU Model 988",
+    "score": 4988
+  },
+  {
+    "id": 989,
+    "name": "GPU Model 989",
+    "score": 4989
+  },
+  {
+    "id": 990,
+    "name": "GPU Model 990",
+    "score": 4990
+  },
+  {
+    "id": 991,
+    "name": "GPU Model 991",
+    "score": 4991
+  },
+  {
+    "id": 992,
+    "name": "GPU Model 992",
+    "score": 4992
+  },
+  {
+    "id": 993,
+    "name": "GPU Model 993",
+    "score": 4993
+  },
+  {
+    "id": 994,
+    "name": "GPU Model 994",
+    "score": 4994
+  },
+  {
+    "id": 995,
+    "name": "GPU Model 995",
+    "score": 4995
+  },
+  {
+    "id": 996,
+    "name": "GPU Model 996",
+    "score": 4996
+  },
+  {
+    "id": 997,
+    "name": "GPU Model 997",
+    "score": 4997
+  },
+  {
+    "id": 998,
+    "name": "GPU Model 998",
+    "score": 4998
+  },
+  {
+    "id": 999,
+    "name": "GPU Model 999",
+    "score": 4999
+  },
+  {
+    "id": 1000,
+    "name": "GPU Model 1000",
+    "score": 5000
+  },
+  {
+    "id": 1001,
+    "name": "GPU Model 1001",
+    "score": 5001
+  },
+  {
+    "id": 1002,
+    "name": "GPU Model 1002",
+    "score": 5002
+  },
+  {
+    "id": 1003,
+    "name": "GPU Model 1003",
+    "score": 5003
+  },
+  {
+    "id": 1004,
+    "name": "GPU Model 1004",
+    "score": 5004
+  },
+  {
+    "id": 1005,
+    "name": "GPU Model 1005",
+    "score": 5005
+  },
+  {
+    "id": 1006,
+    "name": "GPU Model 1006",
+    "score": 5006
+  },
+  {
+    "id": 1007,
+    "name": "GPU Model 1007",
+    "score": 5007
+  },
+  {
+    "id": 1008,
+    "name": "GPU Model 1008",
+    "score": 5008
+  },
+  {
+    "id": 1009,
+    "name": "GPU Model 1009",
+    "score": 5009
+  },
+  {
+    "id": 1010,
+    "name": "GPU Model 1010",
+    "score": 5010
+  },
+  {
+    "id": 1011,
+    "name": "GPU Model 1011",
+    "score": 5011
+  },
+  {
+    "id": 1012,
+    "name": "GPU Model 1012",
+    "score": 5012
+  },
+  {
+    "id": 1013,
+    "name": "GPU Model 1013",
+    "score": 5013
+  },
+  {
+    "id": 1014,
+    "name": "GPU Model 1014",
+    "score": 5014
+  },
+  {
+    "id": 1015,
+    "name": "GPU Model 1015",
+    "score": 5015
+  },
+  {
+    "id": 1016,
+    "name": "GPU Model 1016",
+    "score": 5016
+  },
+  {
+    "id": 1017,
+    "name": "GPU Model 1017",
+    "score": 5017
+  },
+  {
+    "id": 1018,
+    "name": "GPU Model 1018",
+    "score": 5018
+  },
+  {
+    "id": 1019,
+    "name": "GPU Model 1019",
+    "score": 5019
+  },
+  {
+    "id": 1020,
+    "name": "GPU Model 1020",
+    "score": 5020
+  },
+  {
+    "id": 1021,
+    "name": "GPU Model 1021",
+    "score": 5021
+  },
+  {
+    "id": 1022,
+    "name": "GPU Model 1022",
+    "score": 5022
+  },
+  {
+    "id": 1023,
+    "name": "GPU Model 1023",
+    "score": 5023
+  },
+  {
+    "id": 1024,
+    "name": "GPU Model 1024",
+    "score": 5024
+  },
+  {
+    "id": 1025,
+    "name": "GPU Model 1025",
+    "score": 5025
+  },
+  {
+    "id": 1026,
+    "name": "GPU Model 1026",
+    "score": 5026
+  },
+  {
+    "id": 1027,
+    "name": "GPU Model 1027",
+    "score": 5027
+  },
+  {
+    "id": 1028,
+    "name": "GPU Model 1028",
+    "score": 5028
+  },
+  {
+    "id": 1029,
+    "name": "GPU Model 1029",
+    "score": 5029
+  },
+  {
+    "id": 1030,
+    "name": "GPU Model 1030",
+    "score": 5030
+  },
+  {
+    "id": 1031,
+    "name": "GPU Model 1031",
+    "score": 5031
+  },
+  {
+    "id": 1032,
+    "name": "GPU Model 1032",
+    "score": 5032
+  },
+  {
+    "id": 1033,
+    "name": "GPU Model 1033",
+    "score": 5033
+  },
+  {
+    "id": 1034,
+    "name": "GPU Model 1034",
+    "score": 5034
+  },
+  {
+    "id": 1035,
+    "name": "GPU Model 1035",
+    "score": 5035
+  },
+  {
+    "id": 1036,
+    "name": "GPU Model 1036",
+    "score": 5036
+  },
+  {
+    "id": 1037,
+    "name": "GPU Model 1037",
+    "score": 5037
+  },
+  {
+    "id": 1038,
+    "name": "GPU Model 1038",
+    "score": 5038
+  },
+  {
+    "id": 1039,
+    "name": "GPU Model 1039",
+    "score": 5039
+  },
+  {
+    "id": 1040,
+    "name": "GPU Model 1040",
+    "score": 5040
+  },
+  {
+    "id": 1041,
+    "name": "GPU Model 1041",
+    "score": 5041
+  },
+  {
+    "id": 1042,
+    "name": "GPU Model 1042",
+    "score": 5042
+  },
+  {
+    "id": 1043,
+    "name": "GPU Model 1043",
+    "score": 5043
+  },
+  {
+    "id": 1044,
+    "name": "GPU Model 1044",
+    "score": 5044
+  },
+  {
+    "id": 1045,
+    "name": "GPU Model 1045",
+    "score": 5045
+  },
+  {
+    "id": 1046,
+    "name": "GPU Model 1046",
+    "score": 5046
+  },
+  {
+    "id": 1047,
+    "name": "GPU Model 1047",
+    "score": 5047
+  },
+  {
+    "id": 1048,
+    "name": "GPU Model 1048",
+    "score": 5048
+  },
+  {
+    "id": 1049,
+    "name": "GPU Model 1049",
+    "score": 5049
+  },
+  {
+    "id": 1050,
+    "name": "GPU Model 1050",
+    "score": 5050
+  },
+  {
+    "id": 1051,
+    "name": "GPU Model 1051",
+    "score": 5051
+  },
+  {
+    "id": 1052,
+    "name": "GPU Model 1052",
+    "score": 5052
+  },
+  {
+    "id": 1053,
+    "name": "GPU Model 1053",
+    "score": 5053
+  },
+  {
+    "id": 1054,
+    "name": "GPU Model 1054",
+    "score": 5054
+  },
+  {
+    "id": 1055,
+    "name": "GPU Model 1055",
+    "score": 5055
+  },
+  {
+    "id": 1056,
+    "name": "GPU Model 1056",
+    "score": 5056
+  },
+  {
+    "id": 1057,
+    "name": "GPU Model 1057",
+    "score": 5057
+  },
+  {
+    "id": 1058,
+    "name": "GPU Model 1058",
+    "score": 5058
+  },
+  {
+    "id": 1059,
+    "name": "GPU Model 1059",
+    "score": 5059
+  },
+  {
+    "id": 1060,
+    "name": "GPU Model 1060",
+    "score": 5060
+  },
+  {
+    "id": 1061,
+    "name": "GPU Model 1061",
+    "score": 5061
+  },
+  {
+    "id": 1062,
+    "name": "GPU Model 1062",
+    "score": 5062
+  },
+  {
+    "id": 1063,
+    "name": "GPU Model 1063",
+    "score": 5063
+  },
+  {
+    "id": 1064,
+    "name": "GPU Model 1064",
+    "score": 5064
+  },
+  {
+    "id": 1065,
+    "name": "GPU Model 1065",
+    "score": 5065
+  },
+  {
+    "id": 1066,
+    "name": "GPU Model 1066",
+    "score": 5066
+  },
+  {
+    "id": 1067,
+    "name": "GPU Model 1067",
+    "score": 5067
+  },
+  {
+    "id": 1068,
+    "name": "GPU Model 1068",
+    "score": 5068
+  },
+  {
+    "id": 1069,
+    "name": "GPU Model 1069",
+    "score": 5069
+  },
+  {
+    "id": 1070,
+    "name": "GPU Model 1070",
+    "score": 5070
+  },
+  {
+    "id": 1071,
+    "name": "GPU Model 1071",
+    "score": 5071
+  },
+  {
+    "id": 1072,
+    "name": "GPU Model 1072",
+    "score": 5072
+  },
+  {
+    "id": 1073,
+    "name": "GPU Model 1073",
+    "score": 5073
+  },
+  {
+    "id": 1074,
+    "name": "GPU Model 1074",
+    "score": 5074
+  },
+  {
+    "id": 1075,
+    "name": "GPU Model 1075",
+    "score": 5075
+  },
+  {
+    "id": 1076,
+    "name": "GPU Model 1076",
+    "score": 5076
+  },
+  {
+    "id": 1077,
+    "name": "GPU Model 1077",
+    "score": 5077
+  },
+  {
+    "id": 1078,
+    "name": "GPU Model 1078",
+    "score": 5078
+  },
+  {
+    "id": 1079,
+    "name": "GPU Model 1079",
+    "score": 5079
+  },
+  {
+    "id": 1080,
+    "name": "GPU Model 1080",
+    "score": 5080
+  },
+  {
+    "id": 1081,
+    "name": "GPU Model 1081",
+    "score": 5081
+  },
+  {
+    "id": 1082,
+    "name": "GPU Model 1082",
+    "score": 5082
+  },
+  {
+    "id": 1083,
+    "name": "GPU Model 1083",
+    "score": 5083
+  },
+  {
+    "id": 1084,
+    "name": "GPU Model 1084",
+    "score": 5084
+  },
+  {
+    "id": 1085,
+    "name": "GPU Model 1085",
+    "score": 5085
+  },
+  {
+    "id": 1086,
+    "name": "GPU Model 1086",
+    "score": 5086
+  },
+  {
+    "id": 1087,
+    "name": "GPU Model 1087",
+    "score": 5087
+  },
+  {
+    "id": 1088,
+    "name": "GPU Model 1088",
+    "score": 5088
+  },
+  {
+    "id": 1089,
+    "name": "GPU Model 1089",
+    "score": 5089
+  },
+  {
+    "id": 1090,
+    "name": "GPU Model 1090",
+    "score": 5090
+  },
+  {
+    "id": 1091,
+    "name": "GPU Model 1091",
+    "score": 5091
+  },
+  {
+    "id": 1092,
+    "name": "GPU Model 1092",
+    "score": 5092
+  },
+  {
+    "id": 1093,
+    "name": "GPU Model 1093",
+    "score": 5093
+  },
+  {
+    "id": 1094,
+    "name": "GPU Model 1094",
+    "score": 5094
+  },
+  {
+    "id": 1095,
+    "name": "GPU Model 1095",
+    "score": 5095
+  },
+  {
+    "id": 1096,
+    "name": "GPU Model 1096",
+    "score": 5096
+  },
+  {
+    "id": 1097,
+    "name": "GPU Model 1097",
+    "score": 5097
+  },
+  {
+    "id": 1098,
+    "name": "GPU Model 1098",
+    "score": 5098
+  },
+  {
+    "id": 1099,
+    "name": "GPU Model 1099",
+    "score": 5099
+  },
+  {
+    "id": 1100,
+    "name": "GPU Model 1100",
+    "score": 5100
+  },
+  {
+    "id": 1101,
+    "name": "GPU Model 1101",
+    "score": 5101
+  },
+  {
+    "id": 1102,
+    "name": "GPU Model 1102",
+    "score": 5102
+  },
+  {
+    "id": 1103,
+    "name": "GPU Model 1103",
+    "score": 5103
+  },
+  {
+    "id": 1104,
+    "name": "GPU Model 1104",
+    "score": 5104
+  },
+  {
+    "id": 1105,
+    "name": "GPU Model 1105",
+    "score": 5105
+  },
+  {
+    "id": 1106,
+    "name": "GPU Model 1106",
+    "score": 5106
+  },
+  {
+    "id": 1107,
+    "name": "GPU Model 1107",
+    "score": 5107
+  },
+  {
+    "id": 1108,
+    "name": "GPU Model 1108",
+    "score": 5108
+  },
+  {
+    "id": 1109,
+    "name": "GPU Model 1109",
+    "score": 5109
+  },
+  {
+    "id": 1110,
+    "name": "GPU Model 1110",
+    "score": 5110
+  },
+  {
+    "id": 1111,
+    "name": "GPU Model 1111",
+    "score": 5111
+  },
+  {
+    "id": 1112,
+    "name": "GPU Model 1112",
+    "score": 5112
+  },
+  {
+    "id": 1113,
+    "name": "GPU Model 1113",
+    "score": 5113
+  },
+  {
+    "id": 1114,
+    "name": "GPU Model 1114",
+    "score": 5114
+  },
+  {
+    "id": 1115,
+    "name": "GPU Model 1115",
+    "score": 5115
+  },
+  {
+    "id": 1116,
+    "name": "GPU Model 1116",
+    "score": 5116
+  },
+  {
+    "id": 1117,
+    "name": "GPU Model 1117",
+    "score": 5117
+  },
+  {
+    "id": 1118,
+    "name": "GPU Model 1118",
+    "score": 5118
+  },
+  {
+    "id": 1119,
+    "name": "GPU Model 1119",
+    "score": 5119
+  },
+  {
+    "id": 1120,
+    "name": "GPU Model 1120",
+    "score": 5120
+  },
+  {
+    "id": 1121,
+    "name": "GPU Model 1121",
+    "score": 5121
+  },
+  {
+    "id": 1122,
+    "name": "GPU Model 1122",
+    "score": 5122
+  },
+  {
+    "id": 1123,
+    "name": "GPU Model 1123",
+    "score": 5123
+  },
+  {
+    "id": 1124,
+    "name": "GPU Model 1124",
+    "score": 5124
+  },
+  {
+    "id": 1125,
+    "name": "GPU Model 1125",
+    "score": 5125
+  },
+  {
+    "id": 1126,
+    "name": "GPU Model 1126",
+    "score": 5126
+  },
+  {
+    "id": 1127,
+    "name": "GPU Model 1127",
+    "score": 5127
+  },
+  {
+    "id": 1128,
+    "name": "GPU Model 1128",
+    "score": 5128
+  },
+  {
+    "id": 1129,
+    "name": "GPU Model 1129",
+    "score": 5129
+  },
+  {
+    "id": 1130,
+    "name": "GPU Model 1130",
+    "score": 5130
+  },
+  {
+    "id": 1131,
+    "name": "GPU Model 1131",
+    "score": 5131
+  },
+  {
+    "id": 1132,
+    "name": "GPU Model 1132",
+    "score": 5132
+  },
+  {
+    "id": 1133,
+    "name": "GPU Model 1133",
+    "score": 5133
+  },
+  {
+    "id": 1134,
+    "name": "GPU Model 1134",
+    "score": 5134
+  },
+  {
+    "id": 1135,
+    "name": "GPU Model 1135",
+    "score": 5135
+  },
+  {
+    "id": 1136,
+    "name": "GPU Model 1136",
+    "score": 5136
+  },
+  {
+    "id": 1137,
+    "name": "GPU Model 1137",
+    "score": 5137
+  },
+  {
+    "id": 1138,
+    "name": "GPU Model 1138",
+    "score": 5138
+  },
+  {
+    "id": 1139,
+    "name": "GPU Model 1139",
+    "score": 5139
+  },
+  {
+    "id": 1140,
+    "name": "GPU Model 1140",
+    "score": 5140
+  },
+  {
+    "id": 1141,
+    "name": "GPU Model 1141",
+    "score": 5141
+  },
+  {
+    "id": 1142,
+    "name": "GPU Model 1142",
+    "score": 5142
+  },
+  {
+    "id": 1143,
+    "name": "GPU Model 1143",
+    "score": 5143
+  },
+  {
+    "id": 1144,
+    "name": "GPU Model 1144",
+    "score": 5144
+  },
+  {
+    "id": 1145,
+    "name": "GPU Model 1145",
+    "score": 5145
+  },
+  {
+    "id": 1146,
+    "name": "GPU Model 1146",
+    "score": 5146
+  },
+  {
+    "id": 1147,
+    "name": "GPU Model 1147",
+    "score": 5147
+  },
+  {
+    "id": 1148,
+    "name": "GPU Model 1148",
+    "score": 5148
+  },
+  {
+    "id": 1149,
+    "name": "GPU Model 1149",
+    "score": 5149
+  },
+  {
+    "id": 1150,
+    "name": "GPU Model 1150",
+    "score": 5150
+  },
+  {
+    "id": 1151,
+    "name": "GPU Model 1151",
+    "score": 5151
+  },
+  {
+    "id": 1152,
+    "name": "GPU Model 1152",
+    "score": 5152
+  },
+  {
+    "id": 1153,
+    "name": "GPU Model 1153",
+    "score": 5153
+  },
+  {
+    "id": 1154,
+    "name": "GPU Model 1154",
+    "score": 5154
+  },
+  {
+    "id": 1155,
+    "name": "GPU Model 1155",
+    "score": 5155
+  },
+  {
+    "id": 1156,
+    "name": "GPU Model 1156",
+    "score": 5156
+  },
+  {
+    "id": 1157,
+    "name": "GPU Model 1157",
+    "score": 5157
+  },
+  {
+    "id": 1158,
+    "name": "GPU Model 1158",
+    "score": 5158
+  },
+  {
+    "id": 1159,
+    "name": "GPU Model 1159",
+    "score": 5159
+  },
+  {
+    "id": 1160,
+    "name": "GPU Model 1160",
+    "score": 5160
+  },
+  {
+    "id": 1161,
+    "name": "GPU Model 1161",
+    "score": 5161
+  },
+  {
+    "id": 1162,
+    "name": "GPU Model 1162",
+    "score": 5162
+  },
+  {
+    "id": 1163,
+    "name": "GPU Model 1163",
+    "score": 5163
+  },
+  {
+    "id": 1164,
+    "name": "GPU Model 1164",
+    "score": 5164
+  },
+  {
+    "id": 1165,
+    "name": "GPU Model 1165",
+    "score": 5165
+  },
+  {
+    "id": 1166,
+    "name": "GPU Model 1166",
+    "score": 5166
+  },
+  {
+    "id": 1167,
+    "name": "GPU Model 1167",
+    "score": 5167
+  },
+  {
+    "id": 1168,
+    "name": "GPU Model 1168",
+    "score": 5168
+  },
+  {
+    "id": 1169,
+    "name": "GPU Model 1169",
+    "score": 5169
+  },
+  {
+    "id": 1170,
+    "name": "GPU Model 1170",
+    "score": 5170
+  },
+  {
+    "id": 1171,
+    "name": "GPU Model 1171",
+    "score": 5171
+  },
+  {
+    "id": 1172,
+    "name": "GPU Model 1172",
+    "score": 5172
+  },
+  {
+    "id": 1173,
+    "name": "GPU Model 1173",
+    "score": 5173
+  },
+  {
+    "id": 1174,
+    "name": "GPU Model 1174",
+    "score": 5174
+  },
+  {
+    "id": 1175,
+    "name": "GPU Model 1175",
+    "score": 5175
+  },
+  {
+    "id": 1176,
+    "name": "GPU Model 1176",
+    "score": 5176
+  },
+  {
+    "id": 1177,
+    "name": "GPU Model 1177",
+    "score": 5177
+  },
+  {
+    "id": 1178,
+    "name": "GPU Model 1178",
+    "score": 5178
+  },
+  {
+    "id": 1179,
+    "name": "GPU Model 1179",
+    "score": 5179
+  },
+  {
+    "id": 1180,
+    "name": "GPU Model 1180",
+    "score": 5180
+  },
+  {
+    "id": 1181,
+    "name": "GPU Model 1181",
+    "score": 5181
+  },
+  {
+    "id": 1182,
+    "name": "GPU Model 1182",
+    "score": 5182
+  },
+  {
+    "id": 1183,
+    "name": "GPU Model 1183",
+    "score": 5183
+  },
+  {
+    "id": 1184,
+    "name": "GPU Model 1184",
+    "score": 5184
+  },
+  {
+    "id": 1185,
+    "name": "GPU Model 1185",
+    "score": 5185
+  },
+  {
+    "id": 1186,
+    "name": "GPU Model 1186",
+    "score": 5186
+  },
+  {
+    "id": 1187,
+    "name": "GPU Model 1187",
+    "score": 5187
+  },
+  {
+    "id": 1188,
+    "name": "GPU Model 1188",
+    "score": 5188
+  },
+  {
+    "id": 1189,
+    "name": "GPU Model 1189",
+    "score": 5189
+  },
+  {
+    "id": 1190,
+    "name": "GPU Model 1190",
+    "score": 5190
+  },
+  {
+    "id": 1191,
+    "name": "GPU Model 1191",
+    "score": 5191
+  },
+  {
+    "id": 1192,
+    "name": "GPU Model 1192",
+    "score": 5192
+  },
+  {
+    "id": 1193,
+    "name": "GPU Model 1193",
+    "score": 5193
+  },
+  {
+    "id": 1194,
+    "name": "GPU Model 1194",
+    "score": 5194
+  },
+  {
+    "id": 1195,
+    "name": "GPU Model 1195",
+    "score": 5195
+  },
+  {
+    "id": 1196,
+    "name": "GPU Model 1196",
+    "score": 5196
+  },
+  {
+    "id": 1197,
+    "name": "GPU Model 1197",
+    "score": 5197
+  },
+  {
+    "id": 1198,
+    "name": "GPU Model 1198",
+    "score": 5198
+  },
+  {
+    "id": 1199,
+    "name": "GPU Model 1199",
+    "score": 5199
+  },
+  {
+    "id": 1200,
+    "name": "GPU Model 1200",
+    "score": 5200
+  },
+  {
+    "id": 1201,
+    "name": "GPU Model 1201",
+    "score": 5201
+  },
+  {
+    "id": 1202,
+    "name": "GPU Model 1202",
+    "score": 5202
+  },
+  {
+    "id": 1203,
+    "name": "GPU Model 1203",
+    "score": 5203
+  },
+  {
+    "id": 1204,
+    "name": "GPU Model 1204",
+    "score": 5204
+  },
+  {
+    "id": 1205,
+    "name": "GPU Model 1205",
+    "score": 5205
+  },
+  {
+    "id": 1206,
+    "name": "GPU Model 1206",
+    "score": 5206
+  },
+  {
+    "id": 1207,
+    "name": "GPU Model 1207",
+    "score": 5207
+  },
+  {
+    "id": 1208,
+    "name": "GPU Model 1208",
+    "score": 5208
+  },
+  {
+    "id": 1209,
+    "name": "GPU Model 1209",
+    "score": 5209
+  },
+  {
+    "id": 1210,
+    "name": "GPU Model 1210",
+    "score": 5210
+  },
+  {
+    "id": 1211,
+    "name": "GPU Model 1211",
+    "score": 5211
+  },
+  {
+    "id": 1212,
+    "name": "GPU Model 1212",
+    "score": 5212
+  },
+  {
+    "id": 1213,
+    "name": "GPU Model 1213",
+    "score": 5213
+  },
+  {
+    "id": 1214,
+    "name": "GPU Model 1214",
+    "score": 5214
+  },
+  {
+    "id": 1215,
+    "name": "GPU Model 1215",
+    "score": 5215
+  },
+  {
+    "id": 1216,
+    "name": "GPU Model 1216",
+    "score": 5216
+  },
+  {
+    "id": 1217,
+    "name": "GPU Model 1217",
+    "score": 5217
+  },
+  {
+    "id": 1218,
+    "name": "GPU Model 1218",
+    "score": 5218
+  },
+  {
+    "id": 1219,
+    "name": "GPU Model 1219",
+    "score": 5219
+  },
+  {
+    "id": 1220,
+    "name": "GPU Model 1220",
+    "score": 5220
+  },
+  {
+    "id": 1221,
+    "name": "GPU Model 1221",
+    "score": 5221
+  },
+  {
+    "id": 1222,
+    "name": "GPU Model 1222",
+    "score": 5222
+  },
+  {
+    "id": 1223,
+    "name": "GPU Model 1223",
+    "score": 5223
+  },
+  {
+    "id": 1224,
+    "name": "GPU Model 1224",
+    "score": 5224
+  },
+  {
+    "id": 1225,
+    "name": "GPU Model 1225",
+    "score": 5225
+  },
+  {
+    "id": 1226,
+    "name": "GPU Model 1226",
+    "score": 5226
+  },
+  {
+    "id": 1227,
+    "name": "GPU Model 1227",
+    "score": 5227
+  },
+  {
+    "id": 1228,
+    "name": "GPU Model 1228",
+    "score": 5228
+  },
+  {
+    "id": 1229,
+    "name": "GPU Model 1229",
+    "score": 5229
+  },
+  {
+    "id": 1230,
+    "name": "GPU Model 1230",
+    "score": 5230
+  },
+  {
+    "id": 1231,
+    "name": "GPU Model 1231",
+    "score": 5231
+  },
+  {
+    "id": 1232,
+    "name": "GPU Model 1232",
+    "score": 5232
+  },
+  {
+    "id": 1233,
+    "name": "GPU Model 1233",
+    "score": 5233
+  },
+  {
+    "id": 1234,
+    "name": "GPU Model 1234",
+    "score": 5234
+  },
+  {
+    "id": 1235,
+    "name": "GPU Model 1235",
+    "score": 5235
+  },
+  {
+    "id": 1236,
+    "name": "GPU Model 1236",
+    "score": 5236
+  },
+  {
+    "id": 1237,
+    "name": "GPU Model 1237",
+    "score": 5237
+  },
+  {
+    "id": 1238,
+    "name": "GPU Model 1238",
+    "score": 5238
+  },
+  {
+    "id": 1239,
+    "name": "GPU Model 1239",
+    "score": 5239
+  },
+  {
+    "id": 1240,
+    "name": "GPU Model 1240",
+    "score": 5240
+  },
+  {
+    "id": 1241,
+    "name": "GPU Model 1241",
+    "score": 5241
+  },
+  {
+    "id": 1242,
+    "name": "GPU Model 1242",
+    "score": 5242
+  },
+  {
+    "id": 1243,
+    "name": "GPU Model 1243",
+    "score": 5243
+  },
+  {
+    "id": 1244,
+    "name": "GPU Model 1244",
+    "score": 5244
+  },
+  {
+    "id": 1245,
+    "name": "GPU Model 1245",
+    "score": 5245
+  },
+  {
+    "id": 1246,
+    "name": "GPU Model 1246",
+    "score": 5246
+  },
+  {
+    "id": 1247,
+    "name": "GPU Model 1247",
+    "score": 5247
+  },
+  {
+    "id": 1248,
+    "name": "GPU Model 1248",
+    "score": 5248
+  },
+  {
+    "id": 1249,
+    "name": "GPU Model 1249",
+    "score": 5249
+  },
+  {
+    "id": 1250,
+    "name": "GPU Model 1250",
+    "score": 5250
+  },
+  {
+    "id": 1251,
+    "name": "GPU Model 1251",
+    "score": 5251
+  },
+  {
+    "id": 1252,
+    "name": "GPU Model 1252",
+    "score": 5252
+  },
+  {
+    "id": 1253,
+    "name": "GPU Model 1253",
+    "score": 5253
+  },
+  {
+    "id": 1254,
+    "name": "GPU Model 1254",
+    "score": 5254
+  },
+  {
+    "id": 1255,
+    "name": "GPU Model 1255",
+    "score": 5255
+  },
+  {
+    "id": 1256,
+    "name": "GPU Model 1256",
+    "score": 5256
+  },
+  {
+    "id": 1257,
+    "name": "GPU Model 1257",
+    "score": 5257
+  },
+  {
+    "id": 1258,
+    "name": "GPU Model 1258",
+    "score": 5258
+  },
+  {
+    "id": 1259,
+    "name": "GPU Model 1259",
+    "score": 5259
+  },
+  {
+    "id": 1260,
+    "name": "GPU Model 1260",
+    "score": 5260
+  },
+  {
+    "id": 1261,
+    "name": "GPU Model 1261",
+    "score": 5261
+  },
+  {
+    "id": 1262,
+    "name": "GPU Model 1262",
+    "score": 5262
+  },
+  {
+    "id": 1263,
+    "name": "GPU Model 1263",
+    "score": 5263
+  },
+  {
+    "id": 1264,
+    "name": "GPU Model 1264",
+    "score": 5264
+  },
+  {
+    "id": 1265,
+    "name": "GPU Model 1265",
+    "score": 5265
+  },
+  {
+    "id": 1266,
+    "name": "GPU Model 1266",
+    "score": 5266
+  },
+  {
+    "id": 1267,
+    "name": "GPU Model 1267",
+    "score": 5267
+  },
+  {
+    "id": 1268,
+    "name": "GPU Model 1268",
+    "score": 5268
+  },
+  {
+    "id": 1269,
+    "name": "GPU Model 1269",
+    "score": 5269
+  },
+  {
+    "id": 1270,
+    "name": "GPU Model 1270",
+    "score": 5270
+  },
+  {
+    "id": 1271,
+    "name": "GPU Model 1271",
+    "score": 5271
+  },
+  {
+    "id": 1272,
+    "name": "GPU Model 1272",
+    "score": 5272
+  },
+  {
+    "id": 1273,
+    "name": "GPU Model 1273",
+    "score": 5273
+  },
+  {
+    "id": 1274,
+    "name": "GPU Model 1274",
+    "score": 5274
+  },
+  {
+    "id": 1275,
+    "name": "GPU Model 1275",
+    "score": 5275
+  },
+  {
+    "id": 1276,
+    "name": "GPU Model 1276",
+    "score": 5276
+  },
+  {
+    "id": 1277,
+    "name": "GPU Model 1277",
+    "score": 5277
+  },
+  {
+    "id": 1278,
+    "name": "GPU Model 1278",
+    "score": 5278
+  },
+  {
+    "id": 1279,
+    "name": "GPU Model 1279",
+    "score": 5279
+  },
+  {
+    "id": 1280,
+    "name": "GPU Model 1280",
+    "score": 5280
+  },
+  {
+    "id": 1281,
+    "name": "GPU Model 1281",
+    "score": 5281
+  },
+  {
+    "id": 1282,
+    "name": "GPU Model 1282",
+    "score": 5282
+  },
+  {
+    "id": 1283,
+    "name": "GPU Model 1283",
+    "score": 5283
+  },
+  {
+    "id": 1284,
+    "name": "GPU Model 1284",
+    "score": 5284
+  },
+  {
+    "id": 1285,
+    "name": "GPU Model 1285",
+    "score": 5285
+  },
+  {
+    "id": 1286,
+    "name": "GPU Model 1286",
+    "score": 5286
+  },
+  {
+    "id": 1287,
+    "name": "GPU Model 1287",
+    "score": 5287
+  },
+  {
+    "id": 1288,
+    "name": "GPU Model 1288",
+    "score": 5288
+  },
+  {
+    "id": 1289,
+    "name": "GPU Model 1289",
+    "score": 5289
+  },
+  {
+    "id": 1290,
+    "name": "GPU Model 1290",
+    "score": 5290
+  },
+  {
+    "id": 1291,
+    "name": "GPU Model 1291",
+    "score": 5291
+  },
+  {
+    "id": 1292,
+    "name": "GPU Model 1292",
+    "score": 5292
+  },
+  {
+    "id": 1293,
+    "name": "GPU Model 1293",
+    "score": 5293
+  },
+  {
+    "id": 1294,
+    "name": "GPU Model 1294",
+    "score": 5294
+  },
+  {
+    "id": 1295,
+    "name": "GPU Model 1295",
+    "score": 5295
+  },
+  {
+    "id": 1296,
+    "name": "GPU Model 1296",
+    "score": 5296
+  },
+  {
+    "id": 1297,
+    "name": "GPU Model 1297",
+    "score": 5297
+  },
+  {
+    "id": 1298,
+    "name": "GPU Model 1298",
+    "score": 5298
+  },
+  {
+    "id": 1299,
+    "name": "GPU Model 1299",
+    "score": 5299
+  },
+  {
+    "id": 1300,
+    "name": "GPU Model 1300",
+    "score": 5300
+  },
+  {
+    "id": 1301,
+    "name": "GPU Model 1301",
+    "score": 5301
+  },
+  {
+    "id": 1302,
+    "name": "GPU Model 1302",
+    "score": 5302
+  },
+  {
+    "id": 1303,
+    "name": "GPU Model 1303",
+    "score": 5303
+  },
+  {
+    "id": 1304,
+    "name": "GPU Model 1304",
+    "score": 5304
+  },
+  {
+    "id": 1305,
+    "name": "GPU Model 1305",
+    "score": 5305
+  },
+  {
+    "id": 1306,
+    "name": "GPU Model 1306",
+    "score": 5306
+  },
+  {
+    "id": 1307,
+    "name": "GPU Model 1307",
+    "score": 5307
+  },
+  {
+    "id": 1308,
+    "name": "GPU Model 1308",
+    "score": 5308
+  },
+  {
+    "id": 1309,
+    "name": "GPU Model 1309",
+    "score": 5309
+  },
+  {
+    "id": 1310,
+    "name": "GPU Model 1310",
+    "score": 5310
+  },
+  {
+    "id": 1311,
+    "name": "GPU Model 1311",
+    "score": 5311
+  },
+  {
+    "id": 1312,
+    "name": "GPU Model 1312",
+    "score": 5312
+  },
+  {
+    "id": 1313,
+    "name": "GPU Model 1313",
+    "score": 5313
+  },
+  {
+    "id": 1314,
+    "name": "GPU Model 1314",
+    "score": 5314
+  },
+  {
+    "id": 1315,
+    "name": "GPU Model 1315",
+    "score": 5315
+  },
+  {
+    "id": 1316,
+    "name": "GPU Model 1316",
+    "score": 5316
+  },
+  {
+    "id": 1317,
+    "name": "GPU Model 1317",
+    "score": 5317
+  },
+  {
+    "id": 1318,
+    "name": "GPU Model 1318",
+    "score": 5318
+  },
+  {
+    "id": 1319,
+    "name": "GPU Model 1319",
+    "score": 5319
+  },
+  {
+    "id": 1320,
+    "name": "GPU Model 1320",
+    "score": 5320
+  },
+  {
+    "id": 1321,
+    "name": "GPU Model 1321",
+    "score": 5321
+  },
+  {
+    "id": 1322,
+    "name": "GPU Model 1322",
+    "score": 5322
+  },
+  {
+    "id": 1323,
+    "name": "GPU Model 1323",
+    "score": 5323
+  },
+  {
+    "id": 1324,
+    "name": "GPU Model 1324",
+    "score": 5324
+  },
+  {
+    "id": 1325,
+    "name": "GPU Model 1325",
+    "score": 5325
+  },
+  {
+    "id": 1326,
+    "name": "GPU Model 1326",
+    "score": 5326
+  },
+  {
+    "id": 1327,
+    "name": "GPU Model 1327",
+    "score": 5327
+  },
+  {
+    "id": 1328,
+    "name": "GPU Model 1328",
+    "score": 5328
+  },
+  {
+    "id": 1329,
+    "name": "GPU Model 1329",
+    "score": 5329
+  },
+  {
+    "id": 1330,
+    "name": "GPU Model 1330",
+    "score": 5330
+  },
+  {
+    "id": 1331,
+    "name": "GPU Model 1331",
+    "score": 5331
+  },
+  {
+    "id": 1332,
+    "name": "GPU Model 1332",
+    "score": 5332
+  },
+  {
+    "id": 1333,
+    "name": "GPU Model 1333",
+    "score": 5333
+  },
+  {
+    "id": 1334,
+    "name": "GPU Model 1334",
+    "score": 5334
+  },
+  {
+    "id": 1335,
+    "name": "GPU Model 1335",
+    "score": 5335
+  },
+  {
+    "id": 1336,
+    "name": "GPU Model 1336",
+    "score": 5336
+  },
+  {
+    "id": 1337,
+    "name": "GPU Model 1337",
+    "score": 5337
+  },
+  {
+    "id": 1338,
+    "name": "GPU Model 1338",
+    "score": 5338
+  },
+  {
+    "id": 1339,
+    "name": "GPU Model 1339",
+    "score": 5339
+  },
+  {
+    "id": 1340,
+    "name": "GPU Model 1340",
+    "score": 5340
+  },
+  {
+    "id": 1341,
+    "name": "GPU Model 1341",
+    "score": 5341
+  },
+  {
+    "id": 1342,
+    "name": "GPU Model 1342",
+    "score": 5342
+  },
+  {
+    "id": 1343,
+    "name": "GPU Model 1343",
+    "score": 5343
+  },
+  {
+    "id": 1344,
+    "name": "GPU Model 1344",
+    "score": 5344
+  },
+  {
+    "id": 1345,
+    "name": "GPU Model 1345",
+    "score": 5345
+  },
+  {
+    "id": 1346,
+    "name": "GPU Model 1346",
+    "score": 5346
+  },
+  {
+    "id": 1347,
+    "name": "GPU Model 1347",
+    "score": 5347
+  },
+  {
+    "id": 1348,
+    "name": "GPU Model 1348",
+    "score": 5348
+  },
+  {
+    "id": 1349,
+    "name": "GPU Model 1349",
+    "score": 5349
+  },
+  {
+    "id": 1350,
+    "name": "GPU Model 1350",
+    "score": 5350
+  },
+  {
+    "id": 1351,
+    "name": "GPU Model 1351",
+    "score": 5351
+  },
+  {
+    "id": 1352,
+    "name": "GPU Model 1352",
+    "score": 5352
+  },
+  {
+    "id": 1353,
+    "name": "GPU Model 1353",
+    "score": 5353
+  },
+  {
+    "id": 1354,
+    "name": "GPU Model 1354",
+    "score": 5354
+  },
+  {
+    "id": 1355,
+    "name": "GPU Model 1355",
+    "score": 5355
+  },
+  {
+    "id": 1356,
+    "name": "GPU Model 1356",
+    "score": 5356
+  },
+  {
+    "id": 1357,
+    "name": "GPU Model 1357",
+    "score": 5357
+  },
+  {
+    "id": 1358,
+    "name": "GPU Model 1358",
+    "score": 5358
+  },
+  {
+    "id": 1359,
+    "name": "GPU Model 1359",
+    "score": 5359
+  },
+  {
+    "id": 1360,
+    "name": "GPU Model 1360",
+    "score": 5360
+  },
+  {
+    "id": 1361,
+    "name": "GPU Model 1361",
+    "score": 5361
+  },
+  {
+    "id": 1362,
+    "name": "GPU Model 1362",
+    "score": 5362
+  },
+  {
+    "id": 1363,
+    "name": "GPU Model 1363",
+    "score": 5363
+  },
+  {
+    "id": 1364,
+    "name": "GPU Model 1364",
+    "score": 5364
+  },
+  {
+    "id": 1365,
+    "name": "GPU Model 1365",
+    "score": 5365
+  },
+  {
+    "id": 1366,
+    "name": "GPU Model 1366",
+    "score": 5366
+  },
+  {
+    "id": 1367,
+    "name": "GPU Model 1367",
+    "score": 5367
+  },
+  {
+    "id": 1368,
+    "name": "GPU Model 1368",
+    "score": 5368
+  },
+  {
+    "id": 1369,
+    "name": "GPU Model 1369",
+    "score": 5369
+  },
+  {
+    "id": 1370,
+    "name": "GPU Model 1370",
+    "score": 5370
+  },
+  {
+    "id": 1371,
+    "name": "GPU Model 1371",
+    "score": 5371
+  },
+  {
+    "id": 1372,
+    "name": "GPU Model 1372",
+    "score": 5372
+  },
+  {
+    "id": 1373,
+    "name": "GPU Model 1373",
+    "score": 5373
+  },
+  {
+    "id": 1374,
+    "name": "GPU Model 1374",
+    "score": 5374
+  },
+  {
+    "id": 1375,
+    "name": "GPU Model 1375",
+    "score": 5375
+  },
+  {
+    "id": 1376,
+    "name": "GPU Model 1376",
+    "score": 5376
+  },
+  {
+    "id": 1377,
+    "name": "GPU Model 1377",
+    "score": 5377
+  },
+  {
+    "id": 1378,
+    "name": "GPU Model 1378",
+    "score": 5378
+  },
+  {
+    "id": 1379,
+    "name": "GPU Model 1379",
+    "score": 5379
+  },
+  {
+    "id": 1380,
+    "name": "GPU Model 1380",
+    "score": 5380
+  },
+  {
+    "id": 1381,
+    "name": "GPU Model 1381",
+    "score": 5381
+  },
+  {
+    "id": 1382,
+    "name": "GPU Model 1382",
+    "score": 5382
+  },
+  {
+    "id": 1383,
+    "name": "GPU Model 1383",
+    "score": 5383
+  },
+  {
+    "id": 1384,
+    "name": "GPU Model 1384",
+    "score": 5384
+  },
+  {
+    "id": 1385,
+    "name": "GPU Model 1385",
+    "score": 5385
+  },
+  {
+    "id": 1386,
+    "name": "GPU Model 1386",
+    "score": 5386
+  },
+  {
+    "id": 1387,
+    "name": "GPU Model 1387",
+    "score": 5387
+  },
+  {
+    "id": 1388,
+    "name": "GPU Model 1388",
+    "score": 5388
+  },
+  {
+    "id": 1389,
+    "name": "GPU Model 1389",
+    "score": 5389
+  },
+  {
+    "id": 1390,
+    "name": "GPU Model 1390",
+    "score": 5390
+  },
+  {
+    "id": 1391,
+    "name": "GPU Model 1391",
+    "score": 5391
+  },
+  {
+    "id": 1392,
+    "name": "GPU Model 1392",
+    "score": 5392
+  },
+  {
+    "id": 1393,
+    "name": "GPU Model 1393",
+    "score": 5393
+  },
+  {
+    "id": 1394,
+    "name": "GPU Model 1394",
+    "score": 5394
+  },
+  {
+    "id": 1395,
+    "name": "GPU Model 1395",
+    "score": 5395
+  },
+  {
+    "id": 1396,
+    "name": "GPU Model 1396",
+    "score": 5396
+  },
+  {
+    "id": 1397,
+    "name": "GPU Model 1397",
+    "score": 5397
+  },
+  {
+    "id": 1398,
+    "name": "GPU Model 1398",
+    "score": 5398
+  },
+  {
+    "id": 1399,
+    "name": "GPU Model 1399",
+    "score": 5399
+  },
+  {
+    "id": 1400,
+    "name": "GPU Model 1400",
+    "score": 5400
+  },
+  {
+    "id": 1401,
+    "name": "GPU Model 1401",
+    "score": 5401
+  },
+  {
+    "id": 1402,
+    "name": "GPU Model 1402",
+    "score": 5402
+  },
+  {
+    "id": 1403,
+    "name": "GPU Model 1403",
+    "score": 5403
+  },
+  {
+    "id": 1404,
+    "name": "GPU Model 1404",
+    "score": 5404
+  },
+  {
+    "id": 1405,
+    "name": "GPU Model 1405",
+    "score": 5405
+  },
+  {
+    "id": 1406,
+    "name": "GPU Model 1406",
+    "score": 5406
+  },
+  {
+    "id": 1407,
+    "name": "GPU Model 1407",
+    "score": 5407
+  },
+  {
+    "id": 1408,
+    "name": "GPU Model 1408",
+    "score": 5408
+  },
+  {
+    "id": 1409,
+    "name": "GPU Model 1409",
+    "score": 5409
+  },
+  {
+    "id": 1410,
+    "name": "GPU Model 1410",
+    "score": 5410
+  },
+  {
+    "id": 1411,
+    "name": "GPU Model 1411",
+    "score": 5411
+  },
+  {
+    "id": 1412,
+    "name": "GPU Model 1412",
+    "score": 5412
+  },
+  {
+    "id": 1413,
+    "name": "GPU Model 1413",
+    "score": 5413
+  },
+  {
+    "id": 1414,
+    "name": "GPU Model 1414",
+    "score": 5414
+  },
+  {
+    "id": 1415,
+    "name": "GPU Model 1415",
+    "score": 5415
+  },
+  {
+    "id": 1416,
+    "name": "GPU Model 1416",
+    "score": 5416
+  },
+  {
+    "id": 1417,
+    "name": "GPU Model 1417",
+    "score": 5417
+  },
+  {
+    "id": 1418,
+    "name": "GPU Model 1418",
+    "score": 5418
+  },
+  {
+    "id": 1419,
+    "name": "GPU Model 1419",
+    "score": 5419
+  },
+  {
+    "id": 1420,
+    "name": "GPU Model 1420",
+    "score": 5420
+  },
+  {
+    "id": 1421,
+    "name": "GPU Model 1421",
+    "score": 5421
+  },
+  {
+    "id": 1422,
+    "name": "GPU Model 1422",
+    "score": 5422
+  },
+  {
+    "id": 1423,
+    "name": "GPU Model 1423",
+    "score": 5423
+  },
+  {
+    "id": 1424,
+    "name": "GPU Model 1424",
+    "score": 5424
+  },
+  {
+    "id": 1425,
+    "name": "GPU Model 1425",
+    "score": 5425
+  },
+  {
+    "id": 1426,
+    "name": "GPU Model 1426",
+    "score": 5426
+  },
+  {
+    "id": 1427,
+    "name": "GPU Model 1427",
+    "score": 5427
+  },
+  {
+    "id": 1428,
+    "name": "GPU Model 1428",
+    "score": 5428
+  },
+  {
+    "id": 1429,
+    "name": "GPU Model 1429",
+    "score": 5429
+  },
+  {
+    "id": 1430,
+    "name": "GPU Model 1430",
+    "score": 5430
+  },
+  {
+    "id": 1431,
+    "name": "GPU Model 1431",
+    "score": 5431
+  },
+  {
+    "id": 1432,
+    "name": "GPU Model 1432",
+    "score": 5432
+  },
+  {
+    "id": 1433,
+    "name": "GPU Model 1433",
+    "score": 5433
+  },
+  {
+    "id": 1434,
+    "name": "GPU Model 1434",
+    "score": 5434
+  },
+  {
+    "id": 1435,
+    "name": "GPU Model 1435",
+    "score": 5435
+  },
+  {
+    "id": 1436,
+    "name": "GPU Model 1436",
+    "score": 5436
+  },
+  {
+    "id": 1437,
+    "name": "GPU Model 1437",
+    "score": 5437
+  },
+  {
+    "id": 1438,
+    "name": "GPU Model 1438",
+    "score": 5438
+  },
+  {
+    "id": 1439,
+    "name": "GPU Model 1439",
+    "score": 5439
+  },
+  {
+    "id": 1440,
+    "name": "GPU Model 1440",
+    "score": 5440
+  },
+  {
+    "id": 1441,
+    "name": "GPU Model 1441",
+    "score": 5441
+  },
+  {
+    "id": 1442,
+    "name": "GPU Model 1442",
+    "score": 5442
+  },
+  {
+    "id": 1443,
+    "name": "GPU Model 1443",
+    "score": 5443
+  },
+  {
+    "id": 1444,
+    "name": "GPU Model 1444",
+    "score": 5444
+  },
+  {
+    "id": 1445,
+    "name": "GPU Model 1445",
+    "score": 5445
+  },
+  {
+    "id": 1446,
+    "name": "GPU Model 1446",
+    "score": 5446
+  },
+  {
+    "id": 1447,
+    "name": "GPU Model 1447",
+    "score": 5447
+  },
+  {
+    "id": 1448,
+    "name": "GPU Model 1448",
+    "score": 5448
+  },
+  {
+    "id": 1449,
+    "name": "GPU Model 1449",
+    "score": 5449
+  },
+  {
+    "id": 1450,
+    "name": "GPU Model 1450",
+    "score": 5450
+  },
+  {
+    "id": 1451,
+    "name": "GPU Model 1451",
+    "score": 5451
+  },
+  {
+    "id": 1452,
+    "name": "GPU Model 1452",
+    "score": 5452
+  },
+  {
+    "id": 1453,
+    "name": "GPU Model 1453",
+    "score": 5453
+  },
+  {
+    "id": 1454,
+    "name": "GPU Model 1454",
+    "score": 5454
+  },
+  {
+    "id": 1455,
+    "name": "GPU Model 1455",
+    "score": 5455
+  },
+  {
+    "id": 1456,
+    "name": "GPU Model 1456",
+    "score": 5456
+  },
+  {
+    "id": 1457,
+    "name": "GPU Model 1457",
+    "score": 5457
+  },
+  {
+    "id": 1458,
+    "name": "GPU Model 1458",
+    "score": 5458
+  },
+  {
+    "id": 1459,
+    "name": "GPU Model 1459",
+    "score": 5459
+  },
+  {
+    "id": 1460,
+    "name": "GPU Model 1460",
+    "score": 5460
+  },
+  {
+    "id": 1461,
+    "name": "GPU Model 1461",
+    "score": 5461
+  },
+  {
+    "id": 1462,
+    "name": "GPU Model 1462",
+    "score": 5462
+  },
+  {
+    "id": 1463,
+    "name": "GPU Model 1463",
+    "score": 5463
+  },
+  {
+    "id": 1464,
+    "name": "GPU Model 1464",
+    "score": 5464
+  },
+  {
+    "id": 1465,
+    "name": "GPU Model 1465",
+    "score": 5465
+  },
+  {
+    "id": 1466,
+    "name": "GPU Model 1466",
+    "score": 5466
+  },
+  {
+    "id": 1467,
+    "name": "GPU Model 1467",
+    "score": 5467
+  },
+  {
+    "id": 1468,
+    "name": "GPU Model 1468",
+    "score": 5468
+  },
+  {
+    "id": 1469,
+    "name": "GPU Model 1469",
+    "score": 5469
+  },
+  {
+    "id": 1470,
+    "name": "GPU Model 1470",
+    "score": 5470
+  },
+  {
+    "id": 1471,
+    "name": "GPU Model 1471",
+    "score": 5471
+  },
+  {
+    "id": 1472,
+    "name": "GPU Model 1472",
+    "score": 5472
+  },
+  {
+    "id": 1473,
+    "name": "GPU Model 1473",
+    "score": 5473
+  },
+  {
+    "id": 1474,
+    "name": "GPU Model 1474",
+    "score": 5474
+  },
+  {
+    "id": 1475,
+    "name": "GPU Model 1475",
+    "score": 5475
+  },
+  {
+    "id": 1476,
+    "name": "GPU Model 1476",
+    "score": 5476
+  },
+  {
+    "id": 1477,
+    "name": "GPU Model 1477",
+    "score": 5477
+  },
+  {
+    "id": 1478,
+    "name": "GPU Model 1478",
+    "score": 5478
+  },
+  {
+    "id": 1479,
+    "name": "GPU Model 1479",
+    "score": 5479
+  },
+  {
+    "id": 1480,
+    "name": "GPU Model 1480",
+    "score": 5480
+  },
+  {
+    "id": 1481,
+    "name": "GPU Model 1481",
+    "score": 5481
+  },
+  {
+    "id": 1482,
+    "name": "GPU Model 1482",
+    "score": 5482
+  },
+  {
+    "id": 1483,
+    "name": "GPU Model 1483",
+    "score": 5483
+  },
+  {
+    "id": 1484,
+    "name": "GPU Model 1484",
+    "score": 5484
+  },
+  {
+    "id": 1485,
+    "name": "GPU Model 1485",
+    "score": 5485
+  },
+  {
+    "id": 1486,
+    "name": "GPU Model 1486",
+    "score": 5486
+  },
+  {
+    "id": 1487,
+    "name": "GPU Model 1487",
+    "score": 5487
+  },
+  {
+    "id": 1488,
+    "name": "GPU Model 1488",
+    "score": 5488
+  },
+  {
+    "id": 1489,
+    "name": "GPU Model 1489",
+    "score": 5489
+  },
+  {
+    "id": 1490,
+    "name": "GPU Model 1490",
+    "score": 5490
+  },
+  {
+    "id": 1491,
+    "name": "GPU Model 1491",
+    "score": 5491
+  },
+  {
+    "id": 1492,
+    "name": "GPU Model 1492",
+    "score": 5492
+  },
+  {
+    "id": 1493,
+    "name": "GPU Model 1493",
+    "score": 5493
+  },
+  {
+    "id": 1494,
+    "name": "GPU Model 1494",
+    "score": 5494
+  },
+  {
+    "id": 1495,
+    "name": "GPU Model 1495",
+    "score": 5495
+  },
+  {
+    "id": 1496,
+    "name": "GPU Model 1496",
+    "score": 5496
+  },
+  {
+    "id": 1497,
+    "name": "GPU Model 1497",
+    "score": 5497
+  },
+  {
+    "id": 1498,
+    "name": "GPU Model 1498",
+    "score": 5498
+  },
+  {
+    "id": 1499,
+    "name": "GPU Model 1499",
+    "score": 5499
+  },
+  {
+    "id": 1500,
+    "name": "GPU Model 1500",
+    "score": 5500
+  }
+]
