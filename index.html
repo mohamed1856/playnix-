@@ -1,16 +1,36 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-<meta charset="UTF-8">
-<title>Playnix</title>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
+<div class="container">
 
-<h1>Playnix</h1>
+  <h1>🎮 Playnix</h1>
+  <p>تحقق من إمكانية تشغيل الألعاب على جهازك</p>
 
-<p>فحص تشغيل الألعاب</p>
+  <label>المعالج (CPU)</label>
+  <select id="cpu">
+    <option value="">اختر المعالج</option>
+  </select>
 
-<script src="script.js"></script>
-</body>
-</html>
+  <label>كرت الشاشة (GPU)</label>
+  <select id="gpu">
+    <option value="">اختر كرت الشاشة</option>
+  </select>
+
+  <label>الرام (RAM)</label>
+  <select id="ram">
+    <option value="4">4GB</option>
+    <option value="8">8GB</option>
+    <option value="16">16GB</option>
+    <option value="32">32GB</option>
+    <option value="64">64GB</option>
+  </select>
+
+  <label>اللعبة</label>
+  <select id="game">
+    <option value="">اختر اللعبة</option>
+  </select>
+
+  <button onclick="checkGame()">
+    فحص اللعبة
+  </button>
+
+  <div id="result"></div>
+
+</div>
