@@ -34,3 +34,27 @@
   <div id="result"></div>
 
 </div>
+
+<label>البحث عن المعالج</label>
+<input
+  type="text"
+  id="cpuSearch"
+  placeholder="اكتب اسم المعالج..."
+  onkeyup="filterCPU()"
+/>
+
+<select id="cpu">
+  <option value="">اختر المعالج</option>
+</select>
+
+<label>البحث عن كرت الشاشة</label>
+<input
+  type="text"
+  id="gpuSearch"
+  placeholder="اكتب اسم كرت الشاشة..."
+  onkeyup="filterGPU()"
+/>
+
+<select id="gpu">
+  <option value="">اختر كرت الشاشة</option>
+</select>
