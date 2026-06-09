@@ -3,68 +3,44 @@ let cpus = [];
 let gpus = [];
 
 async function loadData() {
+    try {
+        // تحميل كافة البيانات في وقت واحد لتوفير الوقت
+        const [gamesRes, cpusRes, gpusRes] = await Promise.all([
+            fetch("data/games.json").then(r => r.json()),
+            fetch("data/cpus.json").then(r => r.json()),
+            fetch("data/gpus.json").then(r => r.json())
+        ]);
 
-    games = await fetch("data/games.json")
-    .then(r => r.json());
+        games = gamesRes;
+        cpus = cpusRes;
+        gpus = gpusRes;
 
-    cpus = await fetch("data/cpus.json")
-    .then(r => r.json());
-
-    gpus = await fetch("data/gpus.json")
-    .then(r => r.json());
-
-    fillGames();
-    fillCPUs();
-    fillGPUs();
+        fillSelect("game", games);
+        fillSelect("cpu", cpus);
+        fillSelect("gpu", gpus);
+        
+    } catch (error) {
+        console.error("حدث خطأ أثناء تحميل البيانات:", error);
+    }
 }
 
-function fillGames() {
+// دالة واحدة مختصرة بدلاً من تكرار الأكواد لـ 3 دوال
+function fillSelect(elementId, data) {
+    const select = document.getElementById(elementId);
+    if (!select) return;
 
-    const select =
-    document.getElementById("game");
+    // تجميع الخيارات في مصفوفة ثم تحويلها لنص واحد (أسرع بكثير)
+    const options = data.map(item => {
+        // استخدام السعر أو النقاط كقيمة، والاسم كنص معروض
+        const value = item.score || item.name; 
+        return `<option value="${value}">${item.name}</option>`;
+    }).join('');
 
-    games.forEach(game => {
-
-        select.innerHTML += `
-        <option value="${game.name}">
-            ${game.name}
-        </option>`;
-    });
-}
-
-function fillCPUs() {
-
-    const select =
-    document.getElementById("cpu");
-
-    cpus.forEach(cpu => {
-
-        select.innerHTML += `
-        <option value="${cpu.score}">
-            ${cpu.name}
-        </option>`;
-    });
-}
-
-function fillGPUs() {
-
-    const select =
-    document.getElementById("gpu");
-
-    gpus.forEach(gpu => {
-
-        select.innerHTML += `
-        <option value="${gpu.score}">
-            ${gpu.name}
-        </option>`;
-    });
+    select.innerHTML = options;
 }
 
 function checkGame() {
-
-    document.getElementById("result")
-    .innerHTML =
-    "✅ الفحص يعمل بنجاح";
+    document.getElementById("result").innerHTML = "✅ الفحص يعمل بنجاح";
 }
 
 loadData();
