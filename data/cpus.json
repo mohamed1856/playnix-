@@ -4,7 +4,7 @@ let gpus = [];
 
 async function loadData() {
     try {
-        // تحميل كافة البيانات في وقت واحد لتوفير الوقت
+        // حل مشكلة البطء: جلب الملفات الثلاثة معاً في نفس الوقت التوازي
         const [gamesRes, cpusRes, gpusRes] = await Promise.all([
             fetch("data/games.json").then(r => r.json()),
             fetch("data/cpus.json").then(r => r.json()),
@@ -15,32 +15,34 @@ async function loadData() {
         cpus = cpusRes;
         gpus = gpusRes;
 
+        // استدعاء دالة موحدة لتعبئة القوائم
         fillSelect("game", games);
         fillSelect("cpu", cpus);
         fillSelect("gpu", gpus);
         
     } catch (error) {
-        console.error("حدث خطأ أثناء تحميل البيانات:", error);
+        // معالجة الأخطاء في حال فشل الجلب
+        console.error("خطأ في تحميل البيانات التوضيحية:", error);
     }
 }
 
-// دالة واحدة مختصرة بدلاً من تكرار الأكواد لـ 3 دوال
+// دالة موحدة بدلاً من التكرار لحل مشكلة الأداء
 function fillSelect(elementId, data) {
     const select = document.getElementById(elementId);
     if (!select) return;
 
-    // تجميع الخيارات في مصفوفة ثم تحويلها لنص واحد (أسرع بكثير)
-    const options = data.map(item => {
-        // استخدام السعر أو النقاط كقيمة، والاسم كنص معروض
+    // حل مشكلة innerHTML += : تجميع العناصر في مصفوفة وحقنها دفعة واحدة
+    const optionsHTML = data.map(item => {
         const value = item.score || item.name; 
         return `<option value="${value}">${item.name}</option>`;
     }).join('');
 
-    select.innerHTML = options;
+    select.innerHTML = optionsHTML;
 }
 
 function checkGame() {
     document.getElementById("result").innerHTML = "✅ الفحص يعمل بنجاح";
 }
 
+// تشغيل الدالة الأساسية
 loadData();
